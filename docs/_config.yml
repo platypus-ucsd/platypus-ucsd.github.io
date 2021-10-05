@@ -10,7 +10,7 @@
 title: Platypus UCSD
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The Platypus Affiliated Society at the University of California, San Diego.
+  The Platypus Affiliated Society at the <a href="https://ucsd.edu/">University of California, San Diego</a>.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "platypus-ucsd.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /assets/img/logo.png
