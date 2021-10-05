@@ -14,7 +14,7 @@ In the face of the catastrophic past and present, the first task for the reconst
 
 <br>
 
-## The Left is Dead! Long Life the Left!
+## The Left is Dead! Long Live the Left!
 
 Platypus is concerned with exploring the improbable but not impossible tasks and project of the reemergence of a critical Left with emancipatory social intent. We look forward to making a critical but vital contribution towards a possible “return to Marx” for the potential reinvigoration of the Left in coming years. We invite and welcome those who wish to share in and contribute to this project. [The Left is Dead! Long Live the Left!](https://platypus1917.org/project/the-left-is-dead-long-live-the-left/)
 
