@@ -5,4 +5,4 @@
 layout: home
 ---
 
-# Platypus Affiliated Society at UCSD
+Test
