@@ -18,6 +18,12 @@ The reading group takes place **6PM on Thursdays at [CSE 4217](https://goo.gl/ma
 * **Cutrone**, ["The Marxist hypothesis"](http://platypus1917.org/2010/11/06/the-marxist-hypothesis-a-response-to-alain-badous-communist-hypothesis/) (2010)
 * **Cutrone**, [“Class consciousness (from a Marxist perspective) today”](https://platypus1917.org/2012/11/01/class-consciousness-from-a-marxist-perspective-today/) (2012)
 
+*Supplementary resources*
++ G.M. Tamas, [Telling the truth about class](https://platypus1917.org/wp-content/uploads/tamasgm_tellingthetruthaboutclass.pdf) (2007)
++ Robert Pippin, [On critical theory](https://platypus1917.org/wp-content/uploads/2010/09/pippin_criticaltheorynonbeing2004.pdf) (2004)
++ Rainer Maria Rilke, [Archaic torso of Apollo](https://platypus1917.org/wp-content/uploads/2012/07/rilke_apollo.pdf) (1908)
++ Cutrone, [Capital in history, video](https://www.youtube.com/watch?v=rLlZU1hyw6s) (2011)
+
 <br>
 
 ## Oct 28. What is the Left? II. Utopia and critique
