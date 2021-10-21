@@ -23,6 +23,9 @@ The reading group takes place **6PM on Thursdays at [CSE 4217](https://goo.gl/ma
 + Robert Pippin, [On critical theory](https://platypus1917.org/wp-content/uploads/2010/09/pippin_criticaltheorynonbeing2004.pdf) (2004)
 + Rainer Maria Rilke, [Archaic torso of Apollo](https://platypus1917.org/wp-content/uploads/2012/07/rilke_apollo.pdf) (1908)
 + Cutrone, [Capital in history, video](https://www.youtube.com/watch?v=rLlZU1hyw6s) (2011)
++ [Capital in history timeline and chart of terms](https://platypus1917.org/wp-content/uploads/cutrone_capitalinhistorytimeline052019.pdf)
++ [Being and becoming chart of terms](https://platypus1917.org/wp-content/uploads/cutrone_beingbecoming082217.pdf)
++ [Capitalist contradiction chart of terms](https://platypus1917.org/wp-content/uploads/cutrone_marxcapitalistcontradiction030520.pdf)
 
 <br>
 
