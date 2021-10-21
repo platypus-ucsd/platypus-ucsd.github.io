@@ -38,6 +38,9 @@ The reading group takes place **6PM on Thursdays at [CSE 4217](https://goo.gl/ma
 * Karl **Marx**, [To make the world philosophical](http://platypus1917.org/wp-content/uploads/2014/10/marx_earlyphilosophicalcritique_mereader9-151.pdf) from *Marx's dissertation*, (1839–41)
 * **Marx**, [For the ruthless criticism of everything existing](http://platypus1917.org/wp-content/uploads/2014/10/marx_earlyphilosophicalcritique_mereader9-151.pdf#page=3) (letter to Arnold Ruge, September 1843)
 
+*Supplementary resources*
++ [Dialectical critique chart of terms](https://platypus1917.org/wp-content/uploads/cutrone_beingbecomingimmanentcritique102217.pdf)
+
 <br>
 
 ## Nov 4. What is Marxism? I. Socialism
@@ -45,6 +48,9 @@ The reading group takes place **6PM on Thursdays at [CSE 4217](https://goo.gl/ma
 * **Marx**, [selections](https://platypus1917.org/wp-content/uploads/readings/marx_pe1844.pdf) from *Economic and philosophic manuscripts* (1844)
 * **Marx** and Friedrich **Engels**, [selections](https://platypus1917.org/wp-content/uploads/2011/11/marxengels_manifestoex.pdf) from the *Manifesto of the Communist Party* (1848)
 * **Marx**, [The coming upheaval](https://www.marxists.org/archive/marx/works/1847/poverty-philosophy/ch02e.htm) from *The Poverty of Philosophy* (1847)
+
+*Supplementary resources*
++ [Commodity form chart of terms](https://platypus1917.org/wp-content/uploads/commodityform112518-1.pdf)
 
 
 <br>
@@ -67,6 +73,10 @@ The reading group takes place **6PM on Thursdays at [CSE 4217](https://goo.gl/ma
 * **Marx**, [Programme of the Parti Ouvrier](http://www.marxists.org/archive/marx/works/1880/05/parti-ouvrier.htm) (1880)
 
 
+*Supplementary resources*
++ Karl Korsch, [The Marxism of the First International](http://www.marxists.org/archive/korsch/1924/first-international.htm) (1924)
++ Korsch, [Introduction to Marx, *Critique of the Gotha Programme*](http://www.marxists.org/archive/korsch/1922/gotha.htm) (1922)
+
 <br>
 
 ## Dec 2. What is Marxism? IV. Critique of political economy
@@ -78,3 +88,9 @@ The reading group takes place **6PM on Thursdays at [CSE 4217](https://goo.gl/ma
 
 * **Marx**, [selection](https://platypus1917.org/wp-content/uploads/readings/marx_grundrisseex.pdf) and [selection](http://platypus1917.org/wp-content/uploads/2014/11/marx_grundrisse_mereader276-281.pdf) from the *Grundrisse* (1857–61)
 * **Marx**, ["The fetishism of commodities"](http://www.marxists.org/archive/marx/works/1867-c1/ch01.htm#S4) from *Capital, Vol. 1* (1867)
+
+<br>
+## Winter break readings
+
+* Richard Appignanesi and Oscar Zarate, [Introducing Lenin and the Russian Revolution/Lenin for Beginners](http://www.mediafire.com/file/m9h72nf0swd1bac/leninforbeginners1978.pdf) (1977)
+* Sebastian Haffner, [Failure of a Revolution: Germany 1918-19](http://platypus1917.org/wp-content/uploads/2014/05/haffner_failurerevolutiongermany1918-19.pdf) (1968)
