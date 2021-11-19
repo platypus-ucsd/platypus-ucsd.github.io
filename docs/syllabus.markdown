@@ -120,8 +120,8 @@ The reading group takes place **6PM on Thursdays at [CSE 4217](https://goo.gl/ma
 
  <br>
 
- ## What is Marxism? VII. Ends of philosophy
- * **Korsch** [Marxism and philosophy](https://platypus1917.org/wp-content/uploads/2012/12/korsch_marxismandphilosophy.pdf) (1923)
+## What is Marxism? VII. Ends of philosophy
+* **Korsch** [Marxism and philosophy](https://platypus1917.org/wp-content/uploads/2012/12/korsch_marxismandphilosophy.pdf) (1923)
 
 
 *Supplementary resources*
