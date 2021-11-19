@@ -25,6 +25,10 @@ Nov 4  | What is Marxism? [I. Socialism](/syllabus#nov-4-what-is-marxism-i-socia
 Nov 11 | What is Marxism? [II. Revolution in 1848](/syllabus#nov-11-what-is-marxism-ii-revolution-in-1848)
 Nov 18 | What is Marxism? [III. Bonapartism](/syllabus#nov-18-what-is-marxism-iii-bonapartism)
 Dec 2  | What is Marxism? [IV. Critique of political economy](/syllabus#dec-2-what-is-marxism-iv-critique-of-political-economy)
+Break  | [Supplementary readings](/syllabus#winter-break-readings)
+TBD    | What is Marxism? [V. Reification](/syllabus#what-is-marxism-v-reification)
+TBD    | What is Marxism? [VI. Class consciousness](/syllabus#what-is-marxism-vi-class-consciousness)
+TBD    | What is Marxism? [VII. Ends of philosophy](/syllabus#what-is-marxism-vii-ends-of-philosophy)
 
 <br>
 ### Export Calendar

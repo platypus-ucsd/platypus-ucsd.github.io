@@ -94,3 +94,42 @@ The reading group takes place **6PM on Thursdays at [CSE 4217](https://goo.gl/ma
 
 * Richard Appignanesi and Oscar Zarate, [Introducing Lenin and the Russian Revolution/Lenin for Beginners](http://www.mediafire.com/file/m9h72nf0swd1bac/leninforbeginners1978.pdf) (1977)
 * Sebastian Haffner, [Failure of a Revolution: Germany 1918-19](http://platypus1917.org/wp-content/uploads/2014/05/haffner_failurerevolutiongermany1918-19.pdf) (1968)
+
+<br>
+
+## What is Marxism? V. Reification
+* Georg **Lukács**, [The Phenomenon of Reification](https://platypus1917.org/wp-content/uploads/readings/lukacs_reification.pdf)
+
+<br>
+
+## What is Marxism? VI. Class consciousness
+* **Lukács**, [Class consciousness](https://www.marxists.org/archive/lukacs/works/history/lukacs3.htm) (1920)
+* **Lukács**, [Original preface](https://www.marxists.org/archive/lukacs/works/history/preface-1922.htm) (1923)
+* **Lukács**, [What is Orthodox Marxism?](https://www.marxists.org/archive/lukacs/works/history/orthodox.htm) (1919)
+* **Lukács**, [History and class consciousness](https://www.marxists.org/archive/lukacs/works/history/) (1923)
+
+
+*Supplementary resources*
++ Herbert Marcuse, [Note on dialectic](https://platypus1917.org/wp-content/uploads/marcuse_noteondialectic.pdf) (1960)
++ Marx, [Preface to the first German edition](https://www.marxists.org/archive/marx/works/1867-c1/p1.htm) and [Afterword to the second German edition](http://www.marxists.org/archive/marx/works/1867-c1/p3.htm) of *Capital* (1867)
++ [Reification chart of terms](https://platypus1917.org/wp-content/uploads/cutrone_reification012319.pdf)
++ [Being and becoming (freedom in transformation) / immanent dialectical critique chart of terms](https://platypus1917.org/wp-content/uploads/cutrone_beingbecomingimmanentcritique102217.pdf)
++ [Capitalist contradiction chart of terms](https://platypus1917.org/wp-content/uploads/cutrone_marxcapitalistcontradiction030520.pdf)
+ 
+
+
+ <br>
+
+ ## What is Marxism? VII. Ends of philosophy
+ * **Korsch** [Marxism and philosophy](https://platypus1917.org/wp-content/uploads/2012/12/korsch_marxismandphilosophy.pdf) (1923)
+
+
+*Supplementary resources*
++ Herbert Marcuse, [Note on dialectic](https://platypus1917.org/wp-content/uploads/marcuse_noteondialectic.pdf) (1960)
++ Marx, [To make the world philosophical](http://platypus1917.org/wp-content/uploads/2014/10/marx_earlyphilosophicalcritique_mereader9-151.pdf) (1839-41)
++ Marx, [For the ruthless criticism of everything existing](http://platypus1917.org/wp-content/uploads/2014/10/marx_earlyphilosophicalcritique_mereader9-151.pdf) (letter to Arnold Ruge, 1843)
++ Marx, [Theses on Feuerbach](http://www.marxists.org/archive/marx/works/1845/theses/theses.htm) (1845)
++ [Being and becoming (freedom in transformation) / immanent dialectical critique chart of terms](https://platypus1917.org/wp-content/uploads/cutrone_beingbecomingimmanentcritique102217.pdf)
++ [Capitalist contradiction chart of terms](https://platypus1917.org/wp-content/uploads/cutrone_marxcapitalistcontradiction030520.pdf)
+
+
