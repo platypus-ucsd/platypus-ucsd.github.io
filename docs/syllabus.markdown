@@ -9,7 +9,7 @@ The reading group takes place **6PM on Thursdays at [CSE 4258](https://goo.gl/ma
 
 ## Oct 20. What is the Left? I. Capital in history
 
-* Max **Horkheimer**, ["The little man and the philosophy of freedom"](http://chriscutrone.platypus1917.org/wp-content/uploads/2010/04/horkheimer_littlemanphilosophyfreedomdaemmerung1926-31.pdf) (1926-31)
+* Max **Horkheimer**, ["The little man and the philosophy of freedom"](library/horkheimer/the-little-man) (1926-31) [[PDF]](http://chriscutrone.platypus1917.org/wp-content/uploads/2010/04/horkheimer_littlemanphilosophyfreedomdaemmerung1926-31.pdf)
 * Epigraphs on modern history and freedom:
 	* Louis **Menand** ([on Marx and Engels](https://platypus1917.org/wp-content/uploads/2010/09/menandlouis_edmundwilsonfinlandstationintro2003.pdf))
 	* Karl **Marx**, on "[becoming](http://chriscutrone.platypus1917.org/wp-content/uploads/2011/08/marx_grundrissebecoming.pdf)" (from the *Grundrisse*, 1857–58)
