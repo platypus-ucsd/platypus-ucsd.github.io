@@ -89,11 +89,7 @@ The reading group takes place **6PM on Thursdays at [CSE 4258](https://goo.gl/ma
 * **Marx**, [selection](https://platypus1917.org/wp-content/uploads/readings/marx_grundrisseex.pdf) and [selection](http://platypus1917.org/wp-content/uploads/2014/11/marx_grundrisse_mereader276-281.pdf) from the *Grundrisse* (1857–61)
 * **Marx**, ["The fetishism of commodities"](http://www.marxists.org/archive/marx/works/1867-c1/ch01.htm#S4) from *Capital, Vol. 1* (1867)
 
-<br>
-## Winter break readings
 
-* Richard Appignanesi and Oscar Zarate, [Introducing Lenin and the Russian Revolution/Lenin for Beginners](http://www.mediafire.com/file/m9h72nf0swd1bac/leninforbeginners1978.pdf) (1977)
-* Sebastian Haffner, [Failure of a Revolution: Germany 1918-19](http://platypus1917.org/wp-content/uploads/2014/05/haffner_failurerevolutiongermany1918-19.pdf) (1968)
 
 <br>
 
@@ -133,3 +129,12 @@ The reading group takes place **6PM on Thursdays at [CSE 4258](https://goo.gl/ma
 + [Capitalist contradiction chart of terms](https://platypus1917.org/wp-content/uploads/cutrone_marxcapitalistcontradiction030520.pdf)
 
 
+<br>
+## Winter break readings
+
+* Richard Appignanesi and Oscar Zarate, [Introducing Lenin and the Russian Revolution/Lenin for Beginners](http://www.mediafire.com/file/m9h72nf0swd1bac/leninforbeginners1978.pdf) (1977)
+* Sebastian Haffner, [Failure of a Revolution: Germany 1918-19](http://platypus1917.org/wp-content/uploads/2014/05/haffner_failurerevolutiongermany1918-19.pdf) (1968)
+* James Joll, [The Second International 1889–1914](https://platypus1917.org/wp-content/uploads/2015/12/James_Joll_The_Second_International_1889-1914.pdf) (1966)
+* Carl Schorske, [The SPD 1905-17: The Development of the Great Schism](https://platypus1917.org/wp-content/uploads/German-Social-Democracy-1905%E2%80%931917-The-Development-of-the-Great-Schism-by-Carl-E.-Schorske.pdf) (1955)
+* J.P. Nettl, Rosa Luxemburg, [[Vol. 1]](https://platypus1917.org/wp-content/uploads/John-Peter-Nettl-Rosa-Luxemburg.-1-Oxford-University-Press-1966.pdf), [[Vol. 2]](https://platypus1917.org/wp-content/uploads/John-Peter-Nettl-Rosa-Luxemburg.-2-Oxford-University-Press-1966.pdf)
+* Edmund Wilson, [To the Finland Station: A Study in the Writing and Acting of History ](https://books.google.com/books?id=6ZaTgaSeFDMC&pg=PR3&source=gbs_selected_pages&cad=3#v=onepage&q&f=false) (1940), Part II. Ch. (1–4,) 5–10, 12–16; Part III. Ch. 1–6
