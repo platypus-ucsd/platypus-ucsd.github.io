@@ -1,6 +1,6 @@
---
+---
 title: Menand -- On Marx and Engels
---
+---
 
 # Meaning in history: Marx and Engels as *philosophes* of a second Enlightenment
 
