@@ -151,7 +151,7 @@ The reading group takes place **6PM on Thursdays at [CSE 4258](https://goo.gl/ma
 
 <br>
 
-## Reform or Revolution?
+## Reform or revolution?
 * **Luxemburg**, [Reform or Revolution?](http://www.marxists.org/archive/luxemburg/1900/reform-revolution/index.htm) (1900/08)
 
 *Supplementary resources*
@@ -160,8 +160,58 @@ The reading group takes place **6PM on Thursdays at [CSE 4258](https://goo.gl/ma
 
 <br>
 
-## Lenin and the Vanguard Party
+## Lenin and the vanguard party
 * **Spartacist League**, [Lenin and the Vanguard Party](http://www.bolshevik.org/Pamphlets/LeninVanguard/LVP%200.htm) (1978)
 
+
+<br>
+
+## What is to be done?
+* **V. I. Lenin**, [What is to be Done?](http://www.marxists.org/archive/lenin/works/1901/witbd/) (1902)
+
+<br>
+
+## Mass strike and social democracy
+* **Luxemburg**, [The Mass Strike, the Political Party and the Trade Unions](http://www.marxists.org/archive/luxemburg/1906/mass-strike/index.htm) (1906)
+
 *Supplementary resources*
-+ Richard Appignanesi and Oscar Zarate / A&Z, [Introducing Lenin and the Russian Revolution / Lenin for Beginners](http://www.mediafire.com/file/m9h72nf0swd1bac/leninforbeginners1978.pdf) (1977)
++ Luxemburg, ["Blanquism and Social Democracy"](http://www.marxists.org/archive/luxemburg/1906/06/blanquism.html) (1906)
+
+
+<br>
+
+## Permanent revolution
+* **Leon Trotsky**, [Results and Prospects](http://www.marxists.org/archive/trotsky/1931/tpr/rp-index.htm) (1906)
+
+<br>
+
+## State and revolution
+* **Lenin**, [The state and revolution](http://www.marxists.org/archive/lenin/works/1917/staterev/) (1917)
+
+<br>
+
+## Imperialism
+
+> “The bourgeoisie makes it its business to promote trusts, drive women and children into the factories, subject them to corruption and suffering, condemn them to extreme poverty. We do not ‘demand’ such development, we do not ‘support’ it. We fight it. But how do we fight? We explain that trusts and the employment of women in industry are progressive. We do not want a return to the handicraft system, pre-monopoly capitalism, domestic drudgery for women. Forward through the trusts, etc., and beyond them to socialism!” 
+>
+> &mdash; Lenin, [The Military Programme of the Proletarian Revolution](http://www.marxists.org/archive/lenin/works/1916/miliprog/ii.htm) (1916/17)
+
+* **Lenin**, [Imperialism, the Highest Stage of Capitalism](http://www.marxists.org/archive/lenin/works/1916/imp-hsc/) (1916)
+
+
+*Supplementary resources*
++ Lenin, *Socialism and War*, [Ch. 1 The principles of socialism and the War of 1914–15](https://www.marxists.org/archive/lenin/works/1915/s-w/ch01.htm#v21fl70h-299) (1915)
+
+
+<br>
+
+## Failure of the revolution
+* **Luxemburg**, [“What does the Spartacus League Want?”](http://www.marxists.org/archive/luxemburg/1918/12/14.htm) (1918)
+* **Luxemburg**, [“On the Spartacus Programme”](http://www.marxists.org/archive/luxemburg/1918/12/30.htm) (1918)
+
+*Supplementary resources*
+* Luxemburg, ["German Bolshevism" (AKA "The Socialisation of Society")](http://marxists.org/archive/luxemburg/1918/12/20.htm#n1) (1918)
+* Luxemburg, [“The Russian Tragedy”](http://www.marxists.org/archive/luxemburg/1918/09/11.htm) (1918)
+* Luxemburg, [“Order Reigns in Berlin”](http://www.marxists.org/archive/luxemburg/1919/01/14.htm) (1919)
+* Eugene Debs, [“The Day of the People”](https://www.marxists.org/archive/debs/works/1919/daypeople.htm) (1919)
+* Sebastian Haffner, [Failure of a Revolution: Germany 1918–19](http://platypus1917.org/wp-content/uploads/2014/05/haffner_failurerevolutiongermany1918-19.pdf) (1968)
