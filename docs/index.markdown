@@ -6,25 +6,25 @@ layout: default
 
 <br>
 
-# Teach-In Series Fall 2021
-**Tuesdays 6PM @ [CSE 4217](https://goo.gl/maps/tVMUddcYxDXSu8yXA)**
+# Teach-In Series Fall 2022
+**Tuesdays 6PM @ [CSE 4258](https://goo.gl/maps/tVMUddcYxDXSu8yXA)**
 
 Oct 19 | Capital in History: Does Marxism Even Matter? 
-Oct 26 | Free Speech, Authoritarianism and the Left 
-Nov 2  | Technology, Utopia and the Left 
- Nov 9 | Jobs, Free Stuff and the State 
+Oct 26 | Society: What is it? What is it for? 
+Nov 2  | Authoritarianism, Mass Democracy, and the State
+
 
 <br> 
 
 # Primary Reading Group
-**Thursdays 6PM @ [CSE 4217](https://goo.gl/maps/tVMUddcYxDXSu8yXA)** , *[syllabus](/syllabus)*
+**Thursdays 6PM @ [CSE 4258](https://goo.gl/maps/tVMUddcYxDXSu8yXA)** , *[syllabus](/syllabus)*
 
-Oct 21 | What is the Left? [I. Captial in history](/syllabus#oct-21-what-is-the-left-i-capital-in-history)
-Oct 28 | What is the Left? [II. Utopia and critique](/syllabus#oct-28-what-is-the-left-ii-utopia-and-critique) 
-Nov 4  | What is Marxism? [I. Socialism](/syllabus#nov-4-what-is-marxism-i-socialism)
-Nov 11 | What is Marxism? [II. Revolution in 1848](/syllabus#nov-11-what-is-marxism-ii-revolution-in-1848)
-Nov 18 | What is Marxism? [III. Bonapartism](/syllabus#nov-18-what-is-marxism-iii-bonapartism)
-Dec 2  | What is Marxism? [IV. Critique of political economy](/syllabus#dec-2-what-is-marxism-iv-critique-of-political-economy)
+Oct 20 | What is the Left? [I. Captial in history](/syllabus#oct-21-what-is-the-left-i-capital-in-history)
+Oct 27 | What is the Left? [II. Utopia and critique](/syllabus#oct-28-what-is-the-left-ii-utopia-and-critique) 
+Nov 3  | What is Marxism? [I. Socialism](/syllabus#nov-4-what-is-marxism-i-socialism)
+Nov 10 | What is Marxism? [II. Revolution in 1848](/syllabus#nov-11-what-is-marxism-ii-revolution-in-1848)
+Nov 17 | What is Marxism? [III. Bonapartism](/syllabus#nov-18-what-is-marxism-iii-bonapartism)
+Dec 1  | What is Marxism? [IV. Critique of political economy](/syllabus#dec-2-what-is-marxism-iv-critique-of-political-economy)
 Break  | [Supplementary readings](/syllabus#winter-break-readings)
 TBD    | What is Marxism? [V. Reification](/syllabus#what-is-marxism-v-reification)
 TBD    | What is Marxism? [VI. Class consciousness](/syllabus#what-is-marxism-vi-class-consciousness)
