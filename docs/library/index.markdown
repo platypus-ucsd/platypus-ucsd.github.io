@@ -14,7 +14,7 @@
 - [Early philosophical critiques](/library/marx/marx-early-philosophical-critiques.pdf)
   - "To make the world philosophical" from Marx’s dissertation (1839–41)
   - "For the ruthless criticism of everything existing", letter to Arnold Ruge, (September 1843)
-- [Economic & philosophic manuscripts](/library/marx/marx-1844-economic-philosophic-manuscripts.pdf) (1844)
+- [Economic and philosophic manuscripts](/library/marx/marx-1844-economic-philosophic-manuscripts.pdf) (1844)
 
 ## Louis Menand
 - [On Marx and Engels](/library/menand/on-marx-and-engels) from the Introduction (2003) to Edmund Wilson's *To the Finland Station* (1940) [[PDF]](https://platypus1917.org/wp-content/uploads/2010/09/menandlouis_edmundwilsonfinlandstationintro2003.pdf)
