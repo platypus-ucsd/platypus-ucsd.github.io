@@ -5,7 +5,7 @@ title: Reading Group Syllabus
 
 # Reading Group Syllabus
 
-The reading group takes place **6PM on Thursdays at [CSE 4217](https://goo.gl/maps/tVMUddcYxDXSu8yXA)** (take the elevator to the 4th floor, near the end of the hallway on the right). 
+The reading group takes place **6PM on Thursdays at [CSE 4258](https://goo.gl/maps/tVMUddcYxDXSu8yXA)** (take the elevator to the 4th floor, near the end of the hallway on the right). 
 
 ## Oct 20. What is the Left? I. Capital in history
 
