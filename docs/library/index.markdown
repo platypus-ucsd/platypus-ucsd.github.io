@@ -1,5 +1,9 @@
 # Library
 
+## Theodor Adorno
+- [Imaginative excesses](/library/adorno/adorno-1947-imaginative-excesses.pdf) (1944-47)
+
+
 ## Max Horkheimer
 - [The little man and the philosophy of freedom](/library/horkheimer/the-little-man) (1926-31) [[PDF]](http://chriscutrone.platypus1917.org/wp-content/uploads/2010/04/horkheimer_littlemanphilosophyfreedomdaemmerung1926-31.pdf)
 
