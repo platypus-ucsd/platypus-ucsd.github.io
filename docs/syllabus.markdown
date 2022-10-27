@@ -7,7 +7,7 @@ title: Reading Group Syllabus
 
 The reading group takes place **6PM on Thursdays at [CSE 4217](https://goo.gl/maps/tVMUddcYxDXSu8yXA)** (take the elevator to the 4th floor, near the end of the hallway on the right). 
 
-## Oct 21. What is the Left? I. Capital in history
+## Oct 20. What is the Left? I. Capital in history
 
 * Max **Horkheimer**, ["The little man and the philosophy of freedom"](http://chriscutrone.platypus1917.org/wp-content/uploads/2010/04/horkheimer_littlemanphilosophyfreedomdaemmerung1926-31.pdf) (1926-31)
 * Epigraphs on modern history and freedom:
@@ -29,7 +29,7 @@ The reading group takes place **6PM on Thursdays at [CSE 4217](https://goo.gl/ma
 
 <br>
 
-## Oct 28. What is the Left? II. Utopia and critique
+## Oct 27. What is the Left? II. Utopia and critique
 
 * Max **Horkheimer**, [selections from Dämmerung](https://platypus1917.org/wp-content/uploads/readings/horkheimer_dawnex.pdf) (1926–31)
 * Theodor **Adorno**, [“Imaginative Excesses”](https://platypus1917.org/wp-content/uploads/readings/adorno_imaginativeexcesses.pdf) (1944–47)
@@ -43,7 +43,7 @@ The reading group takes place **6PM on Thursdays at [CSE 4217](https://goo.gl/ma
 
 <br>
 
-## Nov 4. What is Marxism? I. Socialism
+## Nov 3. What is Marxism? I. Socialism
 
 * **Marx**, [selections](https://platypus1917.org/wp-content/uploads/readings/marx_pe1844.pdf) from *Economic and philosophic manuscripts* (1844)
 * **Marx** and Friedrich **Engels**, [selections](https://platypus1917.org/wp-content/uploads/2011/11/marxengels_manifestoex.pdf) from the *Manifesto of the Communist Party* (1848)
@@ -55,7 +55,7 @@ The reading group takes place **6PM on Thursdays at [CSE 4217](https://goo.gl/ma
 
 <br>
 
-## Nov 11. What is Marxism? II. Revolution in 1848
+## Nov 10. What is Marxism? II. Revolution in 1848
 
 * **Marx**, [Address to the Central Committee of the Communist League](http://www.marxists.org/archive/marx/works/1847/communist-league/1850-ad1.htm) (1850)
 * **Marx**, [Class struggle and mode of production](https://www.marxists.org/archive/marx/works/1852/letters/52_03_05-ab.htm) (letter to Weydemeyer, 1852), pp. 218–220
@@ -66,7 +66,7 @@ The reading group takes place **6PM on Thursdays at [CSE 4217](https://goo.gl/ma
 
 <br>
 
-## Nov 18. What is Marxism? III. Bonapartism
+## Nov 17. What is Marxism? III. Bonapartism
 * **Marx**, [Inaugural address to the First International](http://www.marxists.org/archive/marx/works/1864/10/27.htm) (1864)
 * **Marx**, [selections](https://platypus1917.org/wp-content/uploads/2011/11/marx_pariscommunetuckeredpress.pdf) from *The Civil War in France* (1871, including Engels's 1891 Introduction)
 * **Marx**, [Critique of the Gotha Programme](http://www.marxists.org/archive/marx/works/1875/gotha/index.htm) (1875)
@@ -79,7 +79,7 @@ The reading group takes place **6PM on Thursdays at [CSE 4217](https://goo.gl/ma
 
 <br>
 
-## Dec 2. What is Marxism? IV. Critique of political economy
+## Dec 1. What is Marxism? IV. Critique of political economy
 
 > The fetish character of the commodity is not a fact of consciousness; rather it is dialectical, in the eminent sense that it produces consciousness. . . . Perfection of the commodity character in a Hegelian self-consciousness inaugurates the explosion of its phantasmagoria.
 >
