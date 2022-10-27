@@ -35,8 +35,8 @@ The reading group takes place **6PM on Thursdays at [CSE 4258](https://goo.gl/ma
 * Theodor **Adorno**, [“Imaginative Excesses”](/library/adorno/adorno-1947-imaginative-excesses.pdf) (1944–47)
 * Leszek **Kolakowski**, [“The concept of the Left”](/library/kolakowski/kolakowski-1968-concept-of-the-left.pdf) (1968)
 * Herbert **Marcuse**, ["Note on dialectic"](https://platypus1917.org/wp-content/uploads/marcuse_noteondialectic.pdf) (1960)
-* Karl **Marx**, [To make the world philosophical](http://platypus1917.org/wp-content/uploads/2014/10/marx_earlyphilosophicalcritique_mereader9-151.pdf) from *Marx's dissertation*, (1839–41)
-* **Marx**, [For the ruthless criticism of everything existing](http://platypus1917.org/wp-content/uploads/2014/10/marx_earlyphilosophicalcritique_mereader9-151.pdf#page=3) (letter to Arnold Ruge, September 1843)
+* Karl **Marx**, [To make the world philosophical](/library/marx/marx-early-philosophical-critiques.pdf) from *Marx's dissertation*, (1839–41)
+* **Marx**, [For the ruthless criticism of everything existing](/library/marx/marx-early-philosophical-critiques.pdf#page=3) (letter to Arnold Ruge, September 1843)
 
 *Supplementary resources*
 + [Dialectical critique chart of terms](https://platypus1917.org/wp-content/uploads/cutrone_beingbecomingimmanentcritique102217.pdf)
@@ -45,7 +45,7 @@ The reading group takes place **6PM on Thursdays at [CSE 4258](https://goo.gl/ma
 
 ## Nov 3. What is Marxism? I. Socialism
 
-* **Marx**, [selections](https://platypus1917.org/wp-content/uploads/readings/marx_pe1844.pdf) from *Economic and philosophic manuscripts* (1844)
+* **Marx**, [selections](/library/marx/marx-1844-economic-philosophic-manuscripts.pdf) from *Economic and philosophic manuscripts* (1844)
 * **Marx** and Friedrich **Engels**, [selections](https://platypus1917.org/wp-content/uploads/2011/11/marxengels_manifestoex.pdf) from the *Manifesto of the Communist Party* (1848)
 * **Marx**, [The coming upheaval](https://www.marxists.org/archive/marx/works/1847/poverty-philosophy/ch02e.htm) from *The Poverty of Philosophy* (1847)
 
