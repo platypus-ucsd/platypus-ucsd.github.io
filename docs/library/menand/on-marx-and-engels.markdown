@@ -1,5 +1,4 @@
-# Meaning in history:
-## Marx and Engels as *philosophes* of a second Enlightenment
+# Meaning in history: Marx and Engels as *philosophes* of a second Enlightenment
 
 **Louis Menand**, from the Introduction (2003) to *To the Finland Station* by Edmund Wilson (1940)
 
