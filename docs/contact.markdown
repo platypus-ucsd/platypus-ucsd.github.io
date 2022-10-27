@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Contact Platypus @ UCSD
+## Contact
 
 Email     | [platypus1917sandiego@gmail.com](platypus1917sandiego@gmail.com)
 Instagram | [https://www.instagram.com/platypus1917sandiego/](https://www.instagram.com/platypus1917sandiego/)
