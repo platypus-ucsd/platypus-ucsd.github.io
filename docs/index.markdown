@@ -19,12 +19,12 @@ Nov 2  | [Authoritarianism, Mass Democracy, and the State](/events#authoritarian
 # Primary Reading Group
 **Thursdays 6PM @ [CSE 4258](https://goo.gl/maps/tVMUddcYxDXSu8yXA)** , *[syllabus](/syllabus)*
 
-Oct 20 | What is the Left? [I. Captial in history](/syllabus#oct-21-what-is-the-left-i-capital-in-history)
-Oct 27 | What is the Left? [II. Utopia and critique](/syllabus#oct-28-what-is-the-left-ii-utopia-and-critique) 
-Nov 3  | What is Marxism? [I. Socialism](/syllabus#nov-4-what-is-marxism-i-socialism)
-Nov 10 | What is Marxism? [II. Revolution in 1848](/syllabus#nov-11-what-is-marxism-ii-revolution-in-1848)
-Nov 17 | What is Marxism? [III. Bonapartism](/syllabus#nov-18-what-is-marxism-iii-bonapartism)
-Dec 1  | What is Marxism? [IV. Critique of political economy](/syllabus#dec-2-what-is-marxism-iv-critique-of-political-economy)
+Oct 20 | What is the Left? [I. Captial in history](/syllabus#oct-20-what-is-the-left-i-capital-in-history)
+Oct 27 | What is the Left? [II. Utopia and critique](/syllabus#oct-27-what-is-the-left-ii-utopia-and-critique) 
+Nov 3  | What is Marxism? [I. Socialism](/syllabus#nov-3-what-is-marxism-i-socialism)
+Nov 10 | What is Marxism? [II. Revolution in 1848](/syllabus#nov-10-what-is-marxism-ii-revolution-in-1848)
+Nov 17 | What is Marxism? [III. Bonapartism](/syllabus#nov-17-what-is-marxism-iii-bonapartism)
+Dec 1  | What is Marxism? [IV. Critique of political economy](/syllabus#dec-1-what-is-marxism-iv-critique-of-political-economy)
 Break  | [Supplementary readings](/syllabus#winter-break-readings)
 TBD    | What is Marxism? [V. Reification](/syllabus#what-is-marxism-v-reification)
 TBD    | What is Marxism? [VI. Class consciousness](/syllabus#what-is-marxism-vi-class-consciousness)
