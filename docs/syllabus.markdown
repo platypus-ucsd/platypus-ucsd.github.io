@@ -137,5 +137,31 @@ The reading group takes place **6PM on Thursdays at [CSE 4258](https://goo.gl/ma
 * Sebastian Haffner, [Failure of a Revolution: Germany 1918-19](http://platypus1917.org/wp-content/uploads/2014/05/haffner_failurerevolutiongermany1918-19.pdf) (1968)
 * James Joll, [The Second International 1889–1914](https://platypus1917.org/wp-content/uploads/2015/12/James_Joll_The_Second_International_1889-1914.pdf) (1966)
 * Carl Schorske, [The SPD 1905-17: The Development of the Great Schism](https://platypus1917.org/wp-content/uploads/German-Social-Democracy-1905%E2%80%931917-The-Development-of-the-Great-Schism-by-Carl-E.-Schorske.pdf) (1955)
-* J.P. Nettl, Rosa Luxemburg, [[Vol. 1]](https://platypus1917.org/wp-content/uploads/John-Peter-Nettl-Rosa-Luxemburg.-1-Oxford-University-Press-1966.pdf), [[Vol. 2]](https://platypus1917.org/wp-content/uploads/John-Peter-Nettl-Rosa-Luxemburg.-2-Oxford-University-Press-1966.pdf)
+* J.P. Nettl, Rosa Luxemburg (1966), [[Vol. 1]](https://platypus1917.org/wp-content/uploads/John-Peter-Nettl-Rosa-Luxemburg.-1-Oxford-University-Press-1966.pdf), [[Vol. 2]](https://platypus1917.org/wp-content/uploads/John-Peter-Nettl-Rosa-Luxemburg.-2-Oxford-University-Press-1966.pdf)
 * Edmund Wilson, [To the Finland Station: A Study in the Writing and Acting of History ](https://books.google.com/books?id=6ZaTgaSeFDMC&pg=PR3&source=gbs_selected_pages&cad=3#v=onepage&q&f=false) (1940), Part II. Ch. (1–4,) 5–10, 12–16; Part III. Ch. 1–6
+
+
+<br>
+
+## Revolutionary leadership
+* **Rosa Luxemburg**, [“The Crisis of German Social Democracy”](https://platypus1917.org/wp-content/uploads/readings/luxemburg_junius.pdf) Part 1 (1915) [[HTML]](https://www.marxists.org/archive/luxemburg/1915/junius/ch01.htm)
+* J. P. Nettl, [“The German Social Democratic Party 1890–1914 as a Political Model”](https://platypus1917.org/wp-content/uploads/readings/nettljp_spd.pdf) (1965)
+• Cliff Slaughter, [“What is Revolutionary Leadership?”](http://www.marxists.org/history/etol/writers/slaughter/1960/10/leadership.html) (1960)
+
+
+<br>
+
+## Reform or Revolution?
+* **Luxemburg**, [Reform or Revolution?](http://www.marxists.org/archive/luxemburg/1900/reform-revolution/index.htm) (1900/08)
+
+*Supplementary resources*
++ Eugene Debs, ["Competition versus Cooperation"](https://www.marxists.org/archive/debs/works/1900/0929-debs-competitionvcooperation.pdf) (1900)
+
+
+<br>
+
+## Lenin and the Vanguard Party
+* **Spartacist League**, [Lenin and the Vanguard Party](http://www.bolshevik.org/Pamphlets/LeninVanguard/LVP%200.htm) (1978)
+
+*Supplementary resources*
++ Richard Appignanesi and Oscar Zarate / A&Z, [Introducing Lenin and the Russian Revolution / Lenin for Beginners](http://www.mediafire.com/file/m9h72nf0swd1bac/leninforbeginners1978.pdf) (1977)
