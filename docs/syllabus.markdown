@@ -130,6 +130,7 @@ The reading group takes place **6PM on Thursdays at [CSE 4258](https://goo.gl/ma
 
 
 <br>
+
 ## Winter break readings
 
 * Richard Appignanesi and Oscar Zarate, [Introducing Lenin and the Russian Revolution/Lenin for Beginners](http://www.mediafire.com/file/m9h72nf0swd1bac/leninforbeginners1978.pdf) (1977)
