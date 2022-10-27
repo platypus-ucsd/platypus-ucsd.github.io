@@ -17,7 +17,7 @@ Nov 2  | [Authoritarianism, Mass Democracy, and the State](/events#authoritarian
 <br> 
 
 # Primary Reading Group
-**Thursdays 6PM @ [CSE 4258](https://goo.gl/maps/tVMUddcYxDXSu8yXA)** , *[syllabus](/syllabus)*
+**Thursdays 6PM @ [CSE 4258](https://goo.gl/maps/tVMUddcYxDXSu8yXA)**, *[syllabus](/syllabus)*
 
 Oct 20 | What is the Left? [I. Captial in history](/syllabus#oct-20-what-is-the-left-i-capital-in-history)
 Oct 27 | What is the Left? [II. Utopia and critique](/syllabus#oct-27-what-is-the-left-ii-utopia-and-critique) 
