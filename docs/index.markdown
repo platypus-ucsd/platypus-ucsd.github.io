@@ -7,7 +7,7 @@ layout: default
 <br>
 
 # Teach-In Series Fall 2022
-**Tuesdays 6PM @ [CSE 4258](https://goo.gl/maps/tVMUddcYxDXSu8yXA)**
+**Wednesdays 6PM @ [CSE 4258](https://goo.gl/maps/tVMUddcYxDXSu8yXA)**
 
 Oct 19 | Capital in History: Does Marxism Even Matter? 
 Oct 26 | Society: What is it? What is it for? 
