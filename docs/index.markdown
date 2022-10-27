@@ -9,9 +9,9 @@ layout: default
 # Teach-In Series Fall 2022
 **Wednesdays 6PM @ [CSE 4258](https://goo.gl/maps/tVMUddcYxDXSu8yXA)**
 
-Oct 19 | [Capital in History: Does Marxism Even Matter?](/events#oct-19-capital-in-history-does-marxism-even-matter)
-Oct 26 | [Society: What is it? What is it for?](/events#oct-26-society-what-is-it-what-is-it-for)
-Nov 2  | [Authoritarianism, Mass Democracy, and the State](/events#nov-2-authoritarianism-mass-democracy-and-the-state)
+Oct 19 | [Capital in History: Does Marxism Even Matter?](/events#capital-in-history-does-marxism-even-matter)
+Oct 26 | [Society: What is it? What is it for?](/events#society-what-is-it-what-is-it-for)
+Nov 2  | [Authoritarianism, Mass Democracy, and the State](/events#authoritarianism-mass-democracy-and-the-state)
 
 
 <br> 
