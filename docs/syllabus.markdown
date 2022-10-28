@@ -34,7 +34,7 @@ The reading group takes place **6PM on Thursdays at [CSE 4258](https://goo.gl/ma
 * Max **Horkheimer**, [selections from Dämmerung](/library/horkheimer/horkheimer-1931-dammerung.pdf) (1926–31)
 * Theodor **Adorno**, [“Imaginative Excesses”](/library/adorno/adorno-1947-imaginative-excesses.pdf) (1944–47)
 * Leszek **Kolakowski**, [“The concept of the Left”](/library/kolakowski/kolakowski-1968-concept-of-the-left.pdf) (1968)
-* Herbert **Marcuse**, ["Note on dialectic"](https://platypus1917.org/wp-content/uploads/marcuse_noteondialectic.pdf) (1960)
+* Herbert **Marcuse**, ["Note on dialectic"](/library/marcuse/marcuse-1960-note-on-dialectic.pdf) (1960)
 * Karl **Marx**, [To make the world philosophical](/library/marx/marx-early-philosophical-critiques.pdf) from *Marx's dissertation*, (1839–41)
 * **Marx**, [For the ruthless criticism of everything existing](/library/marx/marx-early-philosophical-critiques.pdf#page=3) (letter to Arnold Ruge, September 1843)
 

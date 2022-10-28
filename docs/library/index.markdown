@@ -11,6 +11,9 @@
 ## Leszek Kolakowski
 - [The Concept of the Left](/library/kolakowski/kolakowski-1968-concept-of-the-left.pdf) (1968)
 
+## Herbert Marcuse
+- [A note on dialectic](/library/marcuse/marcuse-1960-note-on-dialectic.pdf) (1960)
+
 ## Karl Marx
 - [Early philosophical critiques](/library/marx/marx-early-philosophical-critiques.pdf)
   - "To make the world philosophical" from Marx’s dissertation (1839–41)
