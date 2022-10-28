@@ -25,18 +25,15 @@ about the past but the discovery of the historicity of man: man, unlike animal, 
 historical being. Man is not wholly the product of an alien act, either natural or divine,
 but in part produces his own being. The task of existing is a task precisely because it is
 not a case of acting according to a permanent nature or essence but rather of producing
-that nature within the limitations of a situation. History is the record of this self-
-production; it is the activity of a historical being recovering the past into the present
+that nature within the limitations of a situation. History is the record of this self-production; it is the activity of a historical being recovering the past into the present
 which anticipates the future. With a total absence of this activity man would fall short of
 humanity: history is necessary.
 
-But what if this activity is perverted? What if, rather than remaining the life-
-promoting activity of a historical being, history is turned into the objective uncovering of
-mere facts by the disinterested scholar — facts to be left as they are found, to be
+But what if this activity is perverted? What if, rather than remaining the life-promoting activity of a historical being, history is turned into the objective uncovering of
+mere facts by the disinterested scholar --- facts to be left as they are found, to be
 contemplated without being assimilated into present being? According to Nietzsche, this
-perversion has taken place — and history, rather than promoting life, has become deadly.
-This, then, is the dilemma Nietzsche faced: history is necessary, but as it is practiced it is
-deadly.
+perversion has taken place --- and history, rather than promoting life, has become deadly.
+This, then, is the dilemma Nietzsche faced: history is necessary, but as it is practiced it is deadly.
 
 The present work is an attempt to extricate himself, and us, from this dilemma.
 
@@ -45,8 +42,8 @@ The present work is an attempt to extricate himself, and us, from this dilemma.
 "A person must have the power and from time to time use it to break a
 past and to dissolve it, in order to be able to live.... Here it is not
 righteousness which sits in the judgment seat or, even less, mercy which
-announces judgment, but life alone, that dark, driving, insatiable self-
-desiring force.... People or ages serving life in this way, by judging and
+announces judgment, but life alone, that dark, driving, insatiable self-desiring force.... 
+People or ages serving life in this way, by judging and
 destroying a past, are always dangerous and in danger.... It is an attempt
 to give oneself, as it were, a past after the fact, out of which we may be
 descended in opposition to the one from which we are descended. It is
