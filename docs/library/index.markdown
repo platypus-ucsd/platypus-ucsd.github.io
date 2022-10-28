@@ -5,7 +5,8 @@
 
 
 ## Max Horkheimer
-- [The little man and the philosophy of freedom](/library/horkheimer/the-little-man) (1926-31) [[PDF]](http://chriscutrone.platypus1917.org/wp-content/uploads/2010/04/horkheimer_littlemanphilosophyfreedomdaemmerung1926-31.pdf)
+- [Dawn / Dämmerung](/library/horkheimer/horkheimer-1931-dammerung.pdf), selections (1926-31)
+	- [The little man and the philosophy of freedom](/library/horkheimer/the-little-man) (1926-31) [[PDF]](http://chriscutrone.platypus1917.org/wp-content/uploads/2010/04/horkheimer_littlemanphilosophyfreedomdaemmerung1926-31.pdf)
 
 ## Leszek Kolakowski
 - [The Concept of the Left](/library/kolakowski/kolakowski-1968-concept-of-the-left.pdf) (1968)
