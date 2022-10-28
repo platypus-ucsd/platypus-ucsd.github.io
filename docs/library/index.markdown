@@ -22,3 +22,6 @@
 
 ## Louis Menand
 - [On Marx and Engels](/library/menand/on-marx-and-engels) from the Introduction (2003) to Edmund Wilson's *To the Finland Station* (1940) [[PDF]](https://platypus1917.org/wp-content/uploads/2010/09/menandlouis_edmundwilsonfinlandstationintro2003.pdf)
+
+## Peter Preuss
+- [On Nietzsche](/library/preuss/preuss-on-nietzsche) from the Introduction (Hackett, 1980) to Nietzsche's *On the Advantage and Disadvantage of History to Life* (1847) [[PDF]](https://platypus1917.org/wp-content/uploads/2010/09/preusspeter_nietzschehistoryintro1980.pdf))
