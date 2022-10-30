@@ -46,7 +46,7 @@ The reading group takes place **6PM on Thursdays at [CSE 4258](https://goo.gl/ma
 ## Nov 3. What is Marxism? I. Socialism
 
 * **Marx**, [selections](/library/marx/marx-1844-economic-philosophic-manuscripts.pdf) from *Economic and philosophic manuscripts* (1844)
-* **Marx** and Friedrich **Engels**, [selections](https://platypus1917.org/wp-content/uploads/2011/11/marxengels_manifestoex.pdf) from the *Manifesto of the Communist Party* (1848)
+* **Marx** and Friedrich **Engels**, [selections](/library/marx/marx-engels-1848-communist-manifesto.pdf) from the *Manifesto of the Communist Party* (1848)
 * **Marx**, [The coming upheaval](https://www.marxists.org/archive/marx/works/1847/poverty-philosophy/ch02e.htm) from *The Poverty of Philosophy* (1847)
 
 *Supplementary resources*
