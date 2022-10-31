@@ -23,7 +23,7 @@
   - "For the ruthless criticism of everything existing", letter to Arnold Ruge, (September 1843)
 - [Economic and philosophic manuscripts](/library/marx/marx-1844-economic-philosophic-manuscripts.pdf) (1844)
 - [Manifesto of the Communist Party](/library/marx/marx-engels-1848-communist-manifesto.pdf), written with Friedrich Engels (1848)
-- [The Eighteent Brumaire of Louis Bonaparte](/library/marx/marx-1852-eighteenth-brumiare.pdf), selections (1852)
+- [The Eighteenth Brumaire of Louis Bonaparte](/library/marx/marx-1852-eighteenth-brumaire.pdf), selections (1852)
 
 ## Louis Menand
 - [On Marx and Engels](/library/menand/on-marx-and-engels) from the Introduction (2003) to Edmund Wilson's *To the Finland Station* (1940) [[PDF]](https://platypus1917.org/wp-content/uploads/2010/09/menandlouis_edmundwilsonfinlandstationintro2003.pdf)
