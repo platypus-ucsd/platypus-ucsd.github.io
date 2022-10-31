@@ -61,7 +61,7 @@ The reading group takes place **6PM on Thursdays at [CSE 4258](https://goo.gl/ma
 * **Marx**, [Class struggle and mode of production](https://www.marxists.org/archive/marx/works/1852/letters/52_03_05-ab.htm) (letter to Weydemeyer, 1852), pp. 218–220
 * **Engels**, [The tactics of social democracy](http://platypus1917.org/wp-content/uploads/2014/10/engels_tacticssocialdemocracy1895_mereader556-573.pdf) (1895)
 * **Marx**, [selections](https://platypus1917.org/wp-content/uploads/2011/11/marx_francestrugglesex.pdf) from *The Class Struggles in France 1848–50* (1850)
-* **Marx**, [selections](https://platypus1917.org/wp-content/uploads/2011/11/marx_18thbrumaire.pdf) from *The 18th Brumaire of Louis Bonaparte* (1852)
+* **Marx**, [selections](/library/marx/marx-1852-eighteenth-brumaire.pdf) from *The 18th Brumaire of Louis Bonaparte* (1852)
 
 
 <br>
