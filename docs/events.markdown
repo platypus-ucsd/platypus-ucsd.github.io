@@ -41,7 +41,11 @@ To realize our freedom, we must master our alien powers, and the ends to which w
 
 **Nov. 2, 6PM @ CSE 4258**
 
-The modern state, even in its totalitarian form, is *mass democratic* because we demand that it takes up our social discontents. It aims to appear, as Marx writes, “as the patriarchal benefactor of all”.
+> Society had created its own organs to look after its common interests, originally through simple division of labor. But these organs, at whose head was the state power, had in the course of time, in pursuance of their own special interests, transformed themselves from the servants of society into the masters of society.
+>
+> &mdash; Engels' [Introduction](/library/marx/marx-1871-civil-war-in-france.pdf#page=5) (1891) to Marx's [The Civil War in France](/library/marx/marx-1871-civil-war-in-france.pdf) (1871)
+
+The modern state, even in its totalitarian form, is *mass democratic* because we demand that it takes up our social discontents. It aims to appear, Marx writes, “as the patriarchal benefactor of all classes.”
 
 But as our discontents stem from society and not the state, it can only mediate the crises---and it does so with an iron fist---it cannot overcome them. Thus, mass democracy results not in the perfecting of society for itself, but the perfecting of the *authoritarian state over society*.
 

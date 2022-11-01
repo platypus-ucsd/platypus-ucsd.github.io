@@ -68,7 +68,7 @@ The reading group takes place **6PM on Thursdays at [CSE 4258](https://goo.gl/ma
 
 ## Nov 17. What is Marxism? III. Bonapartism
 * **Marx**, [Inaugural address to the First International](http://www.marxists.org/archive/marx/works/1864/10/27.htm) (1864)
-* **Marx**, [selections](https://platypus1917.org/wp-content/uploads/2011/11/marx_pariscommunetuckeredpress.pdf) from *The Civil War in France* (1871, including Engels's 1891 Introduction)
+* **Marx**, [selections](/library/marx/marx-1871-civil-war-in-france.pdf) from *The Civil War in France* (1871, including Engels's 1891 Introduction)
 * **Marx**, [Critique of the Gotha Programme](http://www.marxists.org/archive/marx/works/1875/gotha/index.htm) (1875)
 * **Marx**, [Programme of the Parti Ouvrier](http://www.marxists.org/archive/marx/works/1880/05/parti-ouvrier.htm) (1880)
 
