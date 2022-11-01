@@ -5,6 +5,7 @@
 
 ## Friedrich Engels
 - [Manifesto of the Communist Party](/library/marx/marx-engels-1848-communist-manifesto.pdf), written with Karl Marx (1848)
+- [Introduction](/library/marx/marx-1871-civil-war-in-france.pdf) (1891) to Marx's *The Civil War in France* (1871)
 
 
 ## Max Horkheimer
@@ -24,6 +25,7 @@
 - [Economic and philosophic manuscripts](/library/marx/marx-1844-economic-philosophic-manuscripts.pdf) (1844)
 - [Manifesto of the Communist Party](/library/marx/marx-engels-1848-communist-manifesto.pdf), written with Friedrich Engels (1848)
 - [The Eighteenth Brumaire of Louis Bonaparte](/library/marx/marx-1852-eighteenth-brumaire.pdf), selections (1852)
+- [The Civil War in France](/library/marx/marx-1871-civil-war-in-france.pdf), selections (1871)
 
 ## Louis Menand
 - [On Marx and Engels](/library/menand/on-marx-and-engels) from the Introduction (2003) to Edmund Wilson's *To the Finland Station* (1940) [[PDF]](https://platypus1917.org/wp-content/uploads/2010/09/menandlouis_edmundwilsonfinlandstationintro2003.pdf)
