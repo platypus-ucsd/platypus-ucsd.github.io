@@ -11,7 +11,7 @@ layout: default
 
 Oct 19 | [Capital in History: Does Marxism Even Matter?](/events#capital-in-history-does-marxism-even-matter)
 Oct 26 | [Society: What is it? What is it for?](/events#society-what-is-it-what-is-it-for)
-Nov 2  | [The State: Mass Democracy & Authoritarianism](/events#authoritarianism-mass-democracy-and-the-state)
+Nov 2  | [The State: Mass Democracy & Authoritarianism](/events#the-state-mass-democracy--authoritarianism)
 
 
 <br> 
