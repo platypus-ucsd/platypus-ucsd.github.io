@@ -41,9 +41,9 @@ To realize our freedom, we must master our alien powers, and the ends to which w
 
 **Nov. 2, 6PM @ CSE 4258**
 
-> Society had created its own organs to look after its common interests, originally through simple division of labor. But these organs, at whose head was the state power, had in the course of time, in pursuance of their own special interests, transformed themselves from the servants of society into the masters of society.
+> The state is therefore by no means a power imposed on society from without... Rather, it is a product of society at a particular stage of development; it is the admission that this society has involved itself in insoluble self-contradiction and is cleft into irreconcilable antagonisms which it is powerless to exorcise. But in order that these antagonisms, classes with conflicting economic interests, shall not consume themselves and society in fruitless struggle, a power, apparently standing above society, has become necessary to moderate the conflict and keep it within the bounds of “order”; and this power, arisen out of society, but placing itself above it and increasingly alienating itself from it, is the state. 
 >
-> &mdash; Engels' [Introduction](/library/marx/marx-1871-civil-war-in-france.pdf#page=5) (1891) to Marx's [The Civil War in France](/library/marx/marx-1871-civil-war-in-france.pdf) (1871)
+> &mdash; Frederick Engels, [*The Origin of the Family, Private Property and the State*](https://www.marxists.org/archive/marx/works/1884/origin-family/index.htm) (1884)
 
 The modern state, even in its totalitarian form, is *mass democratic* because we demand that it takes up our social discontents. It aims to appear, Marx writes, “as the patriarchal benefactor of all classes.”
 
