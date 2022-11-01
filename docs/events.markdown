@@ -37,8 +37,12 @@ To realize our freedom, we must master our alien powers, and the ends to which w
 *What is this object we call society? And what is the object of society?*
 
 
-## Authoritarianism, Mass Democracy, and the State
+## The State: Mass Democracy & Authoritarianism
 
 **Nov. 2, 6PM @ CSE 4258**
 
-Description to come.
+The modern state, even in its totalitarian form, is *mass democratic* because we demand that it takes up our discontents. It aims to appear, as Marx writes, “as the patriarchal benefactor of all”.
+
+But as our discontents stem from society and not the state, it can only mediate the crises—and it does so with an iron fist—but it cannot overcome them. Thus, mass democracy resulted not in the perfecting of society for itself, but the perfecting of the *authoritarian state over society*.
+
+Come discuss what the State means today. What is the relation of the Left to state power?
