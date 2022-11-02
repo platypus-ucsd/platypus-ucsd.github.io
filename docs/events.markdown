@@ -45,8 +45,8 @@ To realize our freedom, we must master our alien powers, and the ends to which w
 >
 > &mdash; Frederick Engels, [*The Origin of the Family, Private Property and the State*](https://www.marxists.org/archive/marx/works/1884/origin-family/index.htm) (1884)
 
-The modern state, even in its totalitarian form, is *mass democratic* because we demand that it takes up our social discontents. It aims to appear, Marx writes, “as the patriarchal benefactor of all classes.”
+The modern state, even in its totalitarian form, is *mass democratic*: its necessary function is to take up and mitigate the discontents of society. It is we ourselves who demand it, and indeed, it aims to appear, Marx writes, “as the patriarchal benefactor of all classes.”
 
-But as our discontents stem from society and not the state, it can only mediate the crises---and it does so with an iron fist---it cannot overcome them. Thus, mass democracy results not in the perfecting of society for itself, but the perfecting of the *authoritarian state over society*.
+But as our discontents stem from society and not the state, it can only mediate the crises---and it does so with an iron fist---yet it cannot overcome them. Thus, mass democracy results not in the perfecting of society for itself, but the perfecting of the *authoritarian state over society*.
 
 *What does the State mean today? What is the relation of the Left to the State?*
