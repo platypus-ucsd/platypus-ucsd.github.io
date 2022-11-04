@@ -1,6 +1,6 @@
 # On the self-overcoming of capital
 
-**Marx**, from *Capital, Volume 3*, Chapter 15 (1863-1883)
+**Karl Marx**, from *Capital, Volume 3*, Chapter 15 (1863-1883)
 
 It will never do, therefore, to represent capitalist production as something which it is not, namely as production whose immediate purpose is enjoyment or the manufacture of the means of enjoyment for the capitalist. This would be overlooking its specific character, which is revealed in all its inner essence...
 

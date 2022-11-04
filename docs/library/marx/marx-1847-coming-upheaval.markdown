@@ -1,5 +1,5 @@
 # The Coming Upheaval
-**Marx**, from *The Poverty of Philosophy* (1847)
+**Karl Marx**, from *The Poverty of Philosophy* (1847)
 
 Economic conditions had first transformed the mass of the people of the country into workers. The combination of capital has created for this mass a common situation, common interests. This mass is thus already a class as against capital, but not yet for itself. In the struggle, of which we have noted only a few phases, this mass becomes united, and constitutes itself as a class for itself. The interests it defends become class interests. But the struggle of class against class is a political struggle.
 
