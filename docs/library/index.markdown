@@ -26,6 +26,7 @@
 - [The Coming Upheaval](/library/marx/marx-1847-coming-upheaval), excerpt from *The Poverty of Philosophy* (1847)
 - [Manifesto of the Communist Party](/library/marx/marx-engels-1848-communist-manifesto.pdf), written with Friedrich Engels (1848)
 - [The Eighteenth Brumaire of Louis Bonaparte](/library/marx/marx-1852-eighteenth-brumaire.pdf), selections (1852)
+- [On becoming](/library/marx/marx-1858-on-becoming), excerpt from *Grundrisse* (1857-58)
 - [The Civil War in France](/library/marx/marx-1871-civil-war-in-france.pdf), selections (1871)
 - [On the self-overcoming of capital](/library/marx/marx-1883-self-overcoming-of-capital), excerpt from *Capital, Vol. 3* (1863-1883)
 

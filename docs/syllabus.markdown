@@ -12,7 +12,7 @@ The reading group takes place **6PM on Thursdays at [CSE 4258](https://goo.gl/ma
 * Max **Horkheimer**, ["The little man and the philosophy of freedom"](library/horkheimer/the-little-man) (1926-31) [[PDF]](http://chriscutrone.platypus1917.org/wp-content/uploads/2010/04/horkheimer_littlemanphilosophyfreedomdaemmerung1926-31.pdf)
 * Epigraphs on modern history and freedom:
 	* Louis **Menand**, [on Marx and Engels](library/menand/on-marx-and-engels), [[PDF]](https://platypus1917.org/wp-content/uploads/2010/09/menandlouis_edmundwilsonfinlandstationintro2003.pdf)
-	* Karl **Marx**, on "[becoming](http://chriscutrone.platypus1917.org/wp-content/uploads/2011/08/marx_grundrissebecoming.pdf)" (from the *Grundrisse*, 1857–58)
+	* Karl **Marx**, on "[becoming](/library/marx/marx-1858-on-becoming)" (from the *Grundrisse*, 1857–58) [[PDF]](http://chriscutrone.platypus1917.org/wp-content/uploads/2011/08/marx_grundrissebecoming.pdf)
 	* Peter **Preuss**, [on history](/library/preuss/preuss-on-nietzsche), [[PDF]](https://platypus1917.org/wp-content/uploads/2010/09/preusspeter_nietzschehistoryintro1980.pdf)
 * Chris **Cutrone**, ["Capital in history"](http://platypus1917.org/2008/10/01/capital-in-history-the-need-for-a-marxian-philosophy-of-history-of-the-left/) (2008)
 * **Cutrone**, ["The Marxist hypothesis"](http://platypus1917.org/2010/11/06/the-marxist-hypothesis-a-response-to-alain-badous-communist-hypothesis/) (2010)
