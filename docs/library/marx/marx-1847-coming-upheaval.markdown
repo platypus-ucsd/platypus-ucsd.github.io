@@ -15,7 +15,7 @@ Meanwhile the antagonism between the proletariat and the bourgeoisie is a strugg
 
 Do not say that social movement excludes political movement. Thereis never a political movement which is not at the same time social.
 
-It is only in an order of things in which there are no more classes and class antagonisms that *social evolutions* will cease to be *political revolutions*. Till then, on the eve of every general reshuffling ofsociety, the last word of social science will always be:
+It is only in an order of things in which there are no more classes and class antagonisms that *social evolutions* will cease to be *political revolutions*. Till then, on the eve of every general reshuffling of society, the last word of social science will always be:
 
 > “Le combat ou la mort; la lutte sanguinaire ou le neant. C’est ainsique la quéstion est invinciblement posée.” 
 >
