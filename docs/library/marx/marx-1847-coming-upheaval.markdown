@@ -16,5 +16,7 @@ Do not say that social movement excludes political movement. Thereis never a pol
 It is only in an order of things in which there are no more classesand class antagonisms that *social evolutions* will cease to be *politicalrevolutions*. Till then, on the eve of every general reshuffling ofsociety, the last word of social science will always be:
 
 > “Le combat ou la mort; la lutte sanguinaire ou le neant. C’est ainsique la quéstion est invinciblement posée.” 
+>
 > "Combat or death: bloody struggle or extinction. It is thus that the question is inexorably put." 
+>
 > --- George Sand, *Jean Ziska. A Historical Novel.*
