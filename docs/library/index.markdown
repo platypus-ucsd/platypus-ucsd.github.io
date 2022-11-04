@@ -34,3 +34,6 @@
 
 ## Peter Preuss
 - [On Nietzsche](/library/preuss/preuss-on-nietzsche) from the Introduction (Hackett, 1980) to Nietzsche's *On the Advantage and Disadvantage of History to Life* (1847) [[PDF]](/library/preuss/preuss-on-nietzsche.pdf))
+
+## Adam Smith
+- [On history and the dead](/library/smith/smith-1759-on-history-and-the-dead), excerpt from *Theory of Moral Sentiments* (1759)
