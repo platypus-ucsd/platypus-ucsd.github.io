@@ -22,6 +22,7 @@
 - [Early philosophical critiques](/library/marx/marx-early-philosophical-critiques.pdf)
   - "To make the world philosophical" from Marx’s dissertation (1839–41)
   - "For the ruthless criticism of everything existing", letter to Arnold Ruge, (September 1843)
+- [On criticism and the task of history](/library/marx/marx-1844-on-criticism), excerpt from *Contribution to the Critique of Hegel's Philosophy of Right* (1844)
 - [Economic and philosophic manuscripts](/library/marx/marx-1844-economic-philosophic-manuscripts.pdf) (1844)
 - [The Coming Upheaval](/library/marx/marx-1847-coming-upheaval), excerpt from *The Poverty of Philosophy* (1847)
 - [Manifesto of the Communist Party](/library/marx/marx-engels-1848-communist-manifesto.pdf), written with Friedrich Engels (1848)
