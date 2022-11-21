@@ -50,3 +50,9 @@ The modern state, even in its totalitarian form, is *mass democratic*: its neces
 But as our discontents stem from society and not the state, it can only mediate the crises---and it does so with an iron fist---yet it cannot overcome them. Thus, mass democracy results not in the perfecting of society for itself, but the perfecting of the *authoritarian state over society*.
 
 *What does the State mean today? What is the relation of the Left to the State?*
+
+## Lincoln, Labor, and the Left
+
+**Nov. 23, 6PM @ CSE 4258**
+
+Marxism must lead the American Revolution or it is nothing. What is the meaning of the American Civil War in world history? How was the task of Reconstruction taken up—and failed—by later generations of the Left, leading to today?
