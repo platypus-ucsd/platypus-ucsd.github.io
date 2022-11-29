@@ -65,4 +65,4 @@ Does the academic strike express an *economic demand*? Yes. But it goes beyond i
 
 And what is academic work? It is the production of society’s potential. Academic work creates both open-ended knowledge and the well-socialized young people wielding it.
 
-What does it mean to assert the value of the production of *potential*? Can we clarify the implicit *political demands* being made? Whare are the ends and means of the strike?
+What does it mean to assert the value of the production of *potential*? Can we clarify the implicit *political demands* being made? What are the ends and means of the strike?
