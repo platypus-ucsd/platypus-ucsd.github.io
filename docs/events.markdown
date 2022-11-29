@@ -56,3 +56,13 @@ But as our discontents stem from society and not the state, it can only mediate 
 **Nov. 23, 6PM @ CSE 4258**
 
 Marxism must lead the American Revolution or it is nothing. What is the meaning of the American Civil War in world history? How was the task of Reconstruction taken up—and failed—by later generations of the Left, leading to today?
+
+## The Academy, the Union, and the Strike
+
+**Nov. 29 & 30, 6PM @ CSE 4258**
+
+Does the academic strike express an *economic demand*? Yes. But it goes beyond immediate interests. It asserts the value of academic work to society.
+
+And what is academic work? It is the production of society’s potential. Academic work creates both open-ended knowledge and the well-socialized young people wielding it.
+
+What does it mean to assert the value of the production of *potential*? Can we clarify the implicit *political demands* being made? Whare are the ends and means of the strike?
