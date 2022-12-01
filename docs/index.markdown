@@ -4,6 +4,7 @@ layout: default
 
 *[The Platypus Affiliated Society](https://platypus1917.org)* organizes reading groups, public fora, research and journalism focused on problems and tasks inherited from the “Old” (1920s-30s), “New” (1960s-70s) and post-political (1980s-90s) Left for the possibilities of emancipatory politics today.
 
+
 <br>
 
 # Teach-In Series Fall 2022
@@ -15,6 +16,9 @@ Nov 2  | [The State: Mass Democracy & Authoritarianism](/events#the-state-mass-d
 Nov 23 | [Lincoln, Labor, and the Left](/events#lincoln-labor-and-the-left)
 Nov 29 | [The Academy, the Union, and the Strike](/events#the-academy-the-union-and-the-strike)
 Nov 30 | [The Academy, the Union, and the Strike](/events#the-academy-the-union-and-the-strike)
+Dec 1  | [The Academy, the Union, and the Strike](/events#the-academy-the-union-and-the-strike)
+
+*Come join us discuss the current strike:* [What does the strike mean?](/assets/docs/what-does-the-strike-mean-pamphlet.pdf)
 
 <br> 
 
