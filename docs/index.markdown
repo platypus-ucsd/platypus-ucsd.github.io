@@ -18,7 +18,7 @@ Nov 29 | [The Academy, the Union, and the Strike](/events#the-academy-the-union-
 Nov 30 | [The Academy, the Union, and the Strike](/events#the-academy-the-union-and-the-strike)
 Dec 1  | [The Academy, the Union, and the Strike](/events#the-academy-the-union-and-the-strike)
 
-*Come join us discuss the current strike:* [What does the strike mean?](/assets/docs/what-does-the-strike-mean-pamphlet.pdf)
+*Come join us discuss the current strike:* [What does the strike mean?](/library/pamphlet/what-does-the-strike-mean.pdf)
 
 <br> 
 
