@@ -143,7 +143,7 @@ The reading group takes place **6PM on Thursdays at [CSE 4258](https://goo.gl/ma
 
 <br>
 
-## Revolutionary leadership
+## Feb 10. Revolutionary leadership
 * **Rosa Luxemburg**, [“The Crisis of German Social Democracy”](https://platypus1917.org/wp-content/uploads/readings/luxemburg_junius.pdf) Part 1 (1915) [[HTML]](https://www.marxists.org/archive/luxemburg/1915/junius/ch01.htm)
 * J. P. Nettl, [“The German Social Democratic Party 1890–1914 as a Political Model”](https://platypus1917.org/wp-content/uploads/readings/nettljp_spd.pdf) (1965)
 • Cliff Slaughter, [“What is Revolutionary Leadership?”](http://www.marxists.org/history/etol/writers/slaughter/1960/10/leadership.html) (1960)
@@ -151,7 +151,7 @@ The reading group takes place **6PM on Thursdays at [CSE 4258](https://goo.gl/ma
 
 <br>
 
-## Reform or revolution?
+## Feb 17. Reform or revolution?
 * **Luxemburg**, [Reform or Revolution?](http://www.marxists.org/archive/luxemburg/1900/reform-revolution/index.htm) (1900/08)
 
 *Supplementary resources*
@@ -160,18 +160,18 @@ The reading group takes place **6PM on Thursdays at [CSE 4258](https://goo.gl/ma
 
 <br>
 
-## Lenin and the vanguard party
+## Feb. 24. Lenin and the vanguard party
 * **Spartacist League**, [Lenin and the Vanguard Party](http://www.bolshevik.org/Pamphlets/LeninVanguard/LVP%200.htm) (1978)
 
 
 <br>
 
-## What is to be done?
+## Mar 3. What is to be done?
 * **V. I. Lenin**, [What is to be Done?](http://www.marxists.org/archive/lenin/works/1901/witbd/) (1902)
 
 <br>
 
-## Mass strike and social democracy
+## Mar 10. Mass strike and social democracy
 * **Luxemburg**, [The Mass Strike, the Political Party and the Trade Unions](http://www.marxists.org/archive/luxemburg/1906/mass-strike/index.htm) (1906)
 
 *Supplementary resources*
@@ -180,7 +180,7 @@ The reading group takes place **6PM on Thursdays at [CSE 4258](https://goo.gl/ma
 
 <br>
 
-## Permanent revolution
+## Mar 17. Permanent revolution
 * **Leon Trotsky**, [Results and Prospects](http://www.marxists.org/archive/trotsky/1931/tpr/rp-index.htm) (1906)
 
 <br>
@@ -190,7 +190,7 @@ The reading group takes place **6PM on Thursdays at [CSE 4258](https://goo.gl/ma
 
 <br>
 
-## Imperialism
+## Apr 6. Imperialism
 
 > The bourgeoisie makes it its business to promote trusts, drive women and children into the factories, subject them to corruption and suffering, condemn them to extreme poverty. We do not ‘demand’ such development, we do not ‘support’ it. We fight it. But how do we fight? We explain that trusts and the employment of women in industry are progressive. We do not want a return to the handicraft system, pre-monopoly capitalism, domestic drudgery for women. Forward through the trusts, etc., and beyond them to socialism! 
 >
@@ -205,7 +205,7 @@ The reading group takes place **6PM on Thursdays at [CSE 4258](https://goo.gl/ma
 
 <br>
 
-## Failure of the revolution
+## Apr 13. Failure of the revolution
 * **Luxemburg**, [“What does the Spartacus League Want?”](http://www.marxists.org/archive/luxemburg/1918/12/14.htm) (1918)
 * **Luxemburg**, [“On the Spartacus Programme”](http://www.marxists.org/archive/luxemburg/1918/12/30.htm) (1918)
 
@@ -219,7 +219,7 @@ The reading group takes place **6PM on Thursdays at [CSE 4258](https://goo.gl/ma
 
 <br>
 
-## Retreat after revolution
+## Apr 20. Retreat after revolution
 * **Lenin**, [“Left-Wing” Communism: An Infantile Disorder](http://www.marxists.org/archive/lenin/works/1920/lwc/index.htm) (1920)
 
 *Supplementary resources*
@@ -228,7 +228,7 @@ The reading group takes place **6PM on Thursdays at [CSE 4258](https://goo.gl/ma
 
 <br>
 
-## Dialectic of reification
+## Apr 27. Dialectic of reification
 * **Lukács**, [“The Standpoint of the Proletariat”](http://platypus1917.org/wp-content/uploads/2014/02/lukacs_standpointproletariat_hccbook.pdf) (Part III of “Reification and the Consciousness of the Proletariat,” 1923). Available in three sections from marxists.org: [section 1](http://www.marxists.org/archive/lukacs/works/history/hcc07_1.htm) [section 2](http://www.marxists.org/archive/lukacs/works/history/hcc07_3.htm) [section 3](http://www.marxists.org/archive/lukacs/works/history/hcc07_5.htm)
 
 *Supplementary resources*
@@ -240,13 +240,13 @@ The reading group takes place **6PM on Thursdays at [CSE 4258](https://goo.gl/ma
 
 <br>
 
-## Lessons of October
+## May 4. Lessons of October
 * **Trotsky**, [The Lessons of October](http://www.marxists.org/archive/trotsky/1924/lessons/index.htm) (1924) [[PDF]](http://platypus1917.org/wp-content/uploads/2014/10/trotskyoctober.pdf)
 * **Trotsky**, ["Stalinism and Bolshevism"](http://www.marxists.org/archive/trotsky/1937/08/stalinism.htm) (1937)
 
 <br>
 
-## Trotskyism
+## May 11. Trotskyism
 * **Trotsky**, [The Death Agony of Capitalism and the Tasks of the Fourth International](http://www.marxists.org/archive/trotsky/1938/tp/index.htm) (AKA The Transitional Program and the Struggle for Socialism, 1938)
 
 *Supplementary resources*
@@ -257,7 +257,7 @@ The reading group takes place **6PM on Thursdays at [CSE 4258](https://goo.gl/ma
 
 <br>
 
-## The authoritarian state
+## May 18. The authoritarian state
 * **Friedrich Pollock**, ["State Capitalism: Its Possibilities and Limitations"](https://platypus1917.org/wp-content/uploads/2012/12/pollock_statecapitalism.pdf) (1941) ([note 32 on USSR](https://platypus1917.org/wp-content/uploads/2012/12/pollock_statecapitalism.pdf#page=18))
 * **Max Horkheimer**, ["The Authoritarian State"](http://www.mediafire.com/file/zwdzqvwvugridqq/horkheimer_authoritarianstatepress.pdf) (1942) [[PDF]](https://cominsitu.files.wordpress.com/2018/10/authoritarian-state-horkheimer1973.pdf)
 
@@ -266,7 +266,7 @@ The reading group takes place **6PM on Thursdays at [CSE 4258](https://goo.gl/ma
 
 <br>
 
-## On the concept of history
+## May 25. On the concept of history
 * Epigraphs on modern history and freedom:
 	* Louis **Menand** ([on Marx and Engels](https://platypus1917.org/wp-content/uploads/2010/09/menandlouis_edmundwilsonfinlandstationintro2003.pdf))
 	* Peter **Preuss** ([on history](https://platypus1917.org/wp-content/uploads/2010/09/preusspeter_nietzschehistoryintro1980.pdf))
@@ -287,7 +287,7 @@ The reading group takes place **6PM on Thursdays at [CSE 4258](https://goo.gl/ma
 
 <br>
 
-## Reflections on Marxism
+## Jun 1. Reflections on Marxism
 * **Theodor Adorno**, [“Reflections on Class Theory”](https://platypus1917.org/wp-content/uploads/readings/adorno_classtheory1942.pdf) (1942)
 * **Adorno**, [“Imaginative Excesses”](https://platypus1917.org/wp-content/uploads/readings/adorno_imaginativeexcesses.pdf) (1944–47)
 
@@ -302,7 +302,7 @@ The reading group takes place **6PM on Thursdays at [CSE 4258](https://goo.gl/ma
 
 <br>
 
-## Theory and practice
+## Jun 8. Theory and practice
 * **Adorno**, [“Marginalia to Theory and Praxis”](https://platypus1917.org/wp-content/uploads/readings/adorno_marginaliatheorypraxis.pdf) (1969)
 * **Adorno**, [“Resignation”](http://platypus1917.org/wp-content/uploads/2014/10/adorno_resignation1969.pdf) (1969)
 
