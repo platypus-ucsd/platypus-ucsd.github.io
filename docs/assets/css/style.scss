@@ -11,3 +11,11 @@ a:hover, a:focus { color: #069; font-weight: normal; text-decoration: underline 
 h1 a:hover, a:focus { font-weight: bold; }
 
 .tabbed {display:inline-block;margin-left:15px;}
+
+img.logo {
+  height: 50%;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}

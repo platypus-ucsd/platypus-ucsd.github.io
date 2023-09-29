@@ -2,23 +2,19 @@
 layout: default
 ---
 
-*[The Platypus Affiliated Society](https://platypus1917.org)* organizes reading groups, public fora, research and journalism focused on problems and tasks inherited from the “Old” (1920s-30s), “New” (1960s-70s) and post-political (1980s-90s) Left for the possibilities of emancipatory politics today.
+# Platypus at UC San Diego
 
+**[The Left is Dead! Long Live the Left!](https://platypus1917.org/about/the-left-is-dead-long-live-the-left/)** Come join our discussions on the history of the Left, current events and politics, and the possibilities of emanipatory politics today.
 
 <br>
 
-# Teach-In Series Fall 2022
+# Teach-In Series Fall 2023
 **Wednesdays 6PM** @ [CSE 4258](https://goo.gl/maps/tVMUddcYxDXSu8yXA), *[events](/events)*
 
-Oct 19 | [Capital in History: Does Marxism Even Matter?](/events#capital-in-history-does-marxism-even-matter)
-Oct 26 | [Society: What is it? What is it for?](/events#society-what-is-it-what-is-it-for)
-Nov 2  | [The State: Mass Democracy & Authoritarianism](/events#the-state-mass-democracy--authoritarianism)
-Nov 23 | [Lincoln, Labor, and the Left](/events#lincoln-labor-and-the-left)
-Nov 29 | [The Academy, the Union, and the Strike](/events#the-academy-the-union-and-the-strike)
-Nov 30 | [The Academy, the Union, and the Strike](/events#the-academy-the-union-and-the-strike)
-Dec 1  | [The Academy, the Union, and the Strike](/events#the-academy-the-union-and-the-strike)
+Oct 4 | [Capital in History: Does Marxism Even Matter?](/events#capital-in-history-does-marxism-even-matter)
+Oct 11 | [Society: What is it? What is it for?](/events#society-what-is-it-what-is-it-for)
+Oct 18  | [The State: Mass Democracy & Authoritarianism](/events#the-state-mass-democracy--authoritarianism)
 
-*Come join us discuss the current strike:* [What does the strike mean?](/library/pamphlet/what-does-the-strike-mean.pdf)
 
 <br> 
 
