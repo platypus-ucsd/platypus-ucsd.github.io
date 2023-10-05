@@ -7,6 +7,29 @@ title: Reading Group Syllabus
 
 The reading group takes place **6PM on Thursdays at [CSE 4258](https://goo.gl/maps/tVMUddcYxDXSu8yXA)** (exit the elevator to the left on the 4th floor, and turn left right before the stairs). 
 
+## Oct 5. Radical bourgeois philosophy IV. What is the Third Estate?
+
+* Abbé **Sieyès**, [What is the Third Estate?](https://platypus1917.org/wp-content/uploads/Sieyes3dEstate.pdf) (1789) [[full text]](https://platypus1917.org/wp-content/uploads/Abbe-Sieyes-What-is-the-third-estate-PIR.pdf)
+
+*Supplementary resources*
++ Bernard Mandeville, [The Fable of the Bees](http://oll.libertyfund.org/titles/mandeville-the-fable-of-the-bees-or-private-vices-publick-benefits-vol-1#lf0014-01_head_027) (1732)
+
+
+## Oct 12. Radical bourgeois philosophy V. Kant and Constant: Bourgeois society
+
+* Immanuel **Kant**, ["Idea for a universal history from a cosmopolitan point of view"](http://www.marxists.org/reference/subject/ethics/kant/universal-history.htm) and ["What is Enlightenment?"](http://www.marxists.org/reference/subject/ethics/kant/enlightenment.htm) (1784)
+* Benjamin **Constant**, ["The liberty of the ancients compared with that of the moderns"](http://platypus1917.org/wp-content/uploads/2014/10/constant_liberty.pdf) (1819)
+
+## Oct 19. Radical bourgeois philosophy VI. Hegel: Freedom in history
+
+> "When we look at this drama of human passions, and observe the consequences of their violence and of the unreason that is linked not only to them but also (and especially) to good intentions and rightful aims; when we see arising from them all the evil, the wickedness, the decline of the most flourishing nations mankind has produced, we can only be filled with grief for all that has come to nothing. And since this decline and fall is not merely the work of nature but of the will of men, we might well end with moral outrage over such a drama, and with a revolt of our good spirit (if there is a spirit of goodness in us). Without rhetorical exaggeration, we could paint the most fearful picture of the misfortunes suffered by the noblest of nations and states as well as by private virtues — and with that picture we could arouse feelings of the deepest and most helpless sadness, not to be outweighed by any consoling outcome. We can strengthen ourselves against this, or escape it, only by thinking that, well, so it was at one time; it is fate; there is nothing to be done about it now. And finally — in order to cast off the tediousness that this reflection of sadness could produce in us and to return to involvement in our own life, to the present of our own aims and interests — we return to the selfishness of standing on a quiet shore where we can be secure in enjoying the distant sight of confusion and wreckage. . . But as we contemplate history as this slaughter-bench, upon which the happiness of nations, the wisdom of states, and the virtues of individuals were sacrificed, the question necessarily comes to mind: What was the ultimate goal for which these monstrous sacrifices were made?… World history is the progress in the consciousness of freedom — a progress that we must come to know in its necessity… The Orientals knew only that one person is free; the Greeks and Romans that some are free; while we [moderns] know that all humans are implicitly free, qua human… The final goal of the world, we said, is Spirit’s consciousness of its freedom, and hence also the actualization of that very freedom… It is this final goal — freedom — toward which all the world’s history has been working. It is this goal to which all the sacrifices have been brought upon the broad altar of the earth in the long flow of time." 
+>
+> &mdash;Hegel, *Introduction to the Philosophy of History*
+
+*  G.W.F. **Hegel**, [Introduction to the Philosophy of History](http://www.marxists.org/reference/archive/hegel/works/hi/hiconten.htm) (1831) [[HTML]](http://www.marxists.org/reference/archive/hegel/works/hi/hiconten.htm) [[PDF pp. 14-128]](http://socserv.mcmaster.ca/econ/ugcm/3ll3/hegel/history.pdf) [[Audiobook]](https://youtu.be/VwN7otICQHw)
+
+
+
 ## Oct 20. What is the Left? I. Capital in history
 
 * Max **Horkheimer**, ["The little man and the philosophy of freedom"](library/horkheimer/the-little-man) (1926-31) [[PDF]](http://chriscutrone.platypus1917.org/wp-content/uploads/2010/04/horkheimer_littlemanphilosophyfreedomdaemmerung1926-31.pdf)
