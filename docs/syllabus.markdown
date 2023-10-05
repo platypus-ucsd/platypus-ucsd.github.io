@@ -7,7 +7,7 @@ title: Reading Group Syllabus
 
 The reading group takes place **6PM on Thursdays at [CSE 4258](https://goo.gl/maps/tVMUddcYxDXSu8yXA)** (exit the elevator to the left on the 4th floor, and turn left right before the stairs). 
 
-## Oct 5. Radical bourgeois philosophy IV. What is the Third Estate?
+## Radical bourgeois philosophy IV. What is the Third Estate?
 
 * Abbé **Sieyès**, [What is the Third Estate?](https://platypus1917.org/wp-content/uploads/Sieyes3dEstate.pdf) (1789) [[full text]](https://platypus1917.org/wp-content/uploads/Abbe-Sieyes-What-is-the-third-estate-PIR.pdf)
 
@@ -15,12 +15,16 @@ The reading group takes place **6PM on Thursdays at [CSE 4258](https://goo.gl/ma
 + Bernard Mandeville, [The Fable of the Bees](http://oll.libertyfund.org/titles/mandeville-the-fable-of-the-bees-or-private-vices-publick-benefits-vol-1#lf0014-01_head_027) (1732)
 
 
-## Oct 12. Radical bourgeois philosophy V. Kant and Constant: Bourgeois society
+<br>
+
+## Radical bourgeois philosophy V. Kant and Constant: Bourgeois society
 
 * Immanuel **Kant**, ["Idea for a universal history from a cosmopolitan point of view"](http://www.marxists.org/reference/subject/ethics/kant/universal-history.htm) and ["What is Enlightenment?"](http://www.marxists.org/reference/subject/ethics/kant/enlightenment.htm) (1784)
 * Benjamin **Constant**, ["The liberty of the ancients compared with that of the moderns"](http://platypus1917.org/wp-content/uploads/2014/10/constant_liberty.pdf) (1819)
 
-## Oct 19. Radical bourgeois philosophy VI. Hegel: Freedom in history
+<br>
+
+## Radical bourgeois philosophy VI. Hegel: Freedom in history
 
 > When we look at this drama of human passions, and observe the consequences of their violence and of the unreason that is linked not only to them but also (and especially) to good intentions and rightful aims; when we see arising from them all the evil, the wickedness, the decline of the most flourishing nations mankind has produced, we can only be filled with grief for all that has come to nothing. And since this decline and fall is not merely the work of nature but of the will of men, we might well end with moral outrage over such a drama, and with a revolt of our good spirit (if there is a spirit of goodness in us). Without rhetorical exaggeration, we could paint the most fearful picture of the misfortunes suffered by the noblest of nations and states as well as by private virtues — and with that picture we could arouse feelings of the deepest and most helpless sadness, not to be outweighed by any consoling outcome. We can strengthen ourselves against this, or escape it, only by thinking that, well, so it was at one time; it is fate; there is nothing to be done about it now. And finally — in order to cast off the tediousness that this reflection of sadness could produce in us and to return to involvement in our own life, to the present of our own aims and interests — we return to the selfishness of standing on a quiet shore where we can be secure in enjoying the distant sight of confusion and wreckage . . . 
 >
@@ -31,8 +35,10 @@ The reading group takes place **6PM on Thursdays at [CSE 4258](https://goo.gl/ma
 *  G.W.F. **Hegel**, [Introduction to the Philosophy of History](http://www.marxists.org/reference/archive/hegel/works/hi/hiconten.htm) (1831) [[HTML]](http://www.marxists.org/reference/archive/hegel/works/hi/hiconten.htm) [[PDF pp. 14-128]](http://socserv.mcmaster.ca/econ/ugcm/3ll3/hegel/history.pdf) [[Audiobook]](https://youtu.be/VwN7otICQHw)
 
 
+<br>
 
-## Oct 20. What is the Left? I. Capital in history
+
+## What is the Left? I. Capital in history
 
 * Max **Horkheimer**, ["The little man and the philosophy of freedom"](library/horkheimer/the-little-man) (1926-31) [[PDF]](http://chriscutrone.platypus1917.org/wp-content/uploads/2010/04/horkheimer_littlemanphilosophyfreedomdaemmerung1926-31.pdf)
 * Epigraphs on modern history and freedom:
@@ -54,7 +60,7 @@ The reading group takes place **6PM on Thursdays at [CSE 4258](https://goo.gl/ma
 
 <br>
 
-## Oct 27. What is the Left? II. Utopia and critique
+## What is the Left? II. Utopia and critique
 
 * Max **Horkheimer**, [selections from Dämmerung](/library/horkheimer/horkheimer-1931-dammerung.pdf) (1926–31)
 * Theodor **Adorno**, [“Imaginative Excesses”](/library/adorno/adorno-1947-imaginative-excesses.pdf) (1944–47)
@@ -68,7 +74,7 @@ The reading group takes place **6PM on Thursdays at [CSE 4258](https://goo.gl/ma
 
 <br>
 
-## Nov 3. What is Marxism? I. Socialism
+## What is Marxism? I. Socialism
 
 * **Marx**, [selections](/library/marx/marx-1844-economic-philosophic-manuscripts.pdf) from *Economic and philosophic manuscripts* (1844)
 * **Marx** and Friedrich **Engels**, [selections](/library/marx/marx-engels-1848-communist-manifesto.pdf) from the *Manifesto of the Communist Party* (1848)
@@ -80,7 +86,7 @@ The reading group takes place **6PM on Thursdays at [CSE 4258](https://goo.gl/ma
 
 <br>
 
-## Nov 10. What is Marxism? II. Revolution in 1848
+## What is Marxism? II. Revolution in 1848
 
 * **Marx**, [Address to the Central Committee of the Communist League](http://www.marxists.org/archive/marx/works/1847/communist-league/1850-ad1.htm) (1850)
 * **Marx**, [Class struggle and mode of production](https://www.marxists.org/archive/marx/works/1852/letters/52_03_05-ab.htm) (letter to Weydemeyer, 1852), pp. 218–220
@@ -91,7 +97,7 @@ The reading group takes place **6PM on Thursdays at [CSE 4258](https://goo.gl/ma
 
 <br>
 
-## Nov 17. What is Marxism? III. Bonapartism
+## What is Marxism? III. Bonapartism
 * **Marx**, [Inaugural address to the First International](http://www.marxists.org/archive/marx/works/1864/10/27.htm) (1864)
 * **Marx**, [selections](/library/marx/marx-1871-civil-war-in-france.pdf) from *The Civil War in France* (1871, including Engels's 1891 Introduction)
 * **Marx**, [Critique of the Gotha Programme](http://www.marxists.org/archive/marx/works/1875/gotha/index.htm) (1875)
@@ -104,7 +110,7 @@ The reading group takes place **6PM on Thursdays at [CSE 4258](https://goo.gl/ma
 
 <br>
 
-## Dec 1. What is Marxism? IV. Critique of political economy
+## What is Marxism? IV. Critique of political economy
 
 > The fetish character of the commodity is not a fact of consciousness; rather it is dialectical, in the eminent sense that it produces consciousness. . . . Perfection of the commodity character in a Hegelian self-consciousness inaugurates the explosion of its phantasmagoria.
 >
