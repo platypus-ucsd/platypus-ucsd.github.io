@@ -4,22 +4,24 @@ layout: default
 
 # Platypus at UC San Diego
 
-**[The Left is Dead! Long Live the Left!](https://platypus1917.org/about/the-left-is-dead-long-live-the-left/)** Come join our discussions on the history of the Left, current events and politics, and the possibilities of emanipatory politics today. Every week, we host a reading group working through the crucial texts in the history of Marxism **Thursdays, 6PM** @ [CSE 4258](https://goo.gl/maps/tVMUddcYxDXSu8yXA).
+**[The Left is Dead! Long Live the Left!](https://platypus1917.org/about/the-left-is-dead-long-live-the-left/)** Come join our discussions on the history of the Left, current events and politics, and the possibilities of emanipatory politics today. Every week, we host a reading group working through the crucial texts in the history of Marxism **Wednesdays, 6PM** @ [Groundwork Books](https://maps.app.goo.gl/766wTE3XfdohDAUT8).
 
 <br>
 
-# Teach-In Series Fall 2023
-**Wednesdays 6PM** @ [CSE 4258](https://goo.gl/maps/tVMUddcYxDXSu8yXA), *[events](/events)*
+# Coffee Breaks
+**Thursdays 5PM** @ [Starbucks, Price Center](https://maps.app.goo.gl/f2FefuX8JcqUupUS9)
 
-Oct 4 | [Capital in History: Does Marxism Even Matter?](/events#capital-in-history-does-marxism-even-matter)
-Oct 11 | [Society: What is it? What is it for?](/events#society-what-is-it-what-is-it-for)
-Oct 18  | [The State: Mass Democracy & Authoritarianism](/events#the-state-mass-democracy--authoritarianism)
+Jan 18 | Israel and Palestine
+Jan 25 | Trump: Political Prisoner?
+Feb 1  | Art in History
+Feb 8  | Free Speech
+Feb 14 | Immigration and Imperialism
 
 
 <br> 
 
 # Primary Reading Group
-**Thursdays 6PM** @ [CSE 4258](https://goo.gl/maps/tVMUddcYxDXSu8yXA), *[syllabus](/syllabus)*
+**Wednesdays 6PM** @ [Groundwork Books](https://maps.app.goo.gl/766wTE3XfdohDAUT8), *[syllabus](/syllabus)*
 
 Oct 5 | Radical bourgeois philosophy [IV. The Third Estate](/syllabus#radical-bourgeois-philosophy-iv-what-is-the-third-estate)
 Oct 12 | Radical bourgeois philosophy [V. Bourgeois society](/syllabus#radical-bourgeois-philosophy-v-kant-and-constant-bourgeois-society)
@@ -31,9 +33,13 @@ Nov 16 | What is Marxism? [II. Revolution in 1848](/syllabus#what-is-marxism-ii-
 Nov 30 | What is Marxism? [III. Bonapartism](/syllabus#what-is-marxism-iii-bonapartism)
 Dec 6  | What is Marxism? [IV. Critique of political economy](/syllabus#what-is-marxism-iv-critique-of-political-economy)
 Break  | [Supplementary readings](/syllabus#winter-break-readings)
-TBD    | What is Marxism? [V. Reification](/syllabus#what-is-marxism-v-reification)
-TBD    | What is Marxism? [VI. Class consciousness](/syllabus#what-is-marxism-vi-class-consciousness)
-TBD    | What is Marxism? [VII. Ends of philosophy](/syllabus#what-is-marxism-vii-ends-of-philosophy)
+Jan 11    | What is Marxism? [V. Reification](/syllabus#what-is-marxism-v-reification)
+Jan 17    | What is Marxism? [VI. Class consciousness](/syllabus#what-is-marxism-vi-class-consciousness)
+Jan 24    | What is Marxism? [VII. Ends of philosophy](/syllabus#what-is-marxism-vii-ends-of-philosophy)
+Jan 31    | [Revolutionary Leadership](/syllabus#revolutionary-leadership)
+Feb 7     | [Reform or Revolution?](/syllabus#reform-or-revolution)
+Feb 14    | [Lenin and the Vanguard Party](/syllabus#lenin-and-the-vanguard-party)
+Feb 21    | [What is to be Done?](/syllabus#what-is-to-be-done)
 
 <br>
 ### Export Calendar

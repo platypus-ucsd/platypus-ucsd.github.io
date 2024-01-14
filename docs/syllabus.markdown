@@ -174,7 +174,7 @@ The reading group takes place **6PM on Thursdays at [CSE 4258](https://goo.gl/ma
 
 <br>
 
-## Feb 10. Revolutionary leadership
+## Revolutionary leadership
 * **Rosa Luxemburg**, [“The Crisis of German Social Democracy”](https://platypus1917.org/wp-content/uploads/readings/luxemburg_junius.pdf) Part 1 (1915) [[HTML]](https://www.marxists.org/archive/luxemburg/1915/junius/ch01.htm)
 * J. P. Nettl, [“The German Social Democratic Party 1890–1914 as a Political Model”](https://platypus1917.org/wp-content/uploads/readings/nettljp_spd.pdf) (1965)
 • Cliff Slaughter, [“What is Revolutionary Leadership?”](http://www.marxists.org/history/etol/writers/slaughter/1960/10/leadership.html) (1960)
@@ -182,7 +182,7 @@ The reading group takes place **6PM on Thursdays at [CSE 4258](https://goo.gl/ma
 
 <br>
 
-## Feb 17. Reform or revolution?
+## Reform or revolution?
 * **Luxemburg**, [Reform or Revolution?](http://www.marxists.org/archive/luxemburg/1900/reform-revolution/index.htm) (1900/08)
 
 *Supplementary resources*
@@ -191,18 +191,18 @@ The reading group takes place **6PM on Thursdays at [CSE 4258](https://goo.gl/ma
 
 <br>
 
-## Feb. 24. Lenin and the vanguard party
+## Lenin and the vanguard party
 * **Spartacist League**, [Lenin and the Vanguard Party](http://www.bolshevik.org/Pamphlets/LeninVanguard/LVP%200.htm) (1978)
 
 
 <br>
 
-## Mar 3. What is to be done?
+## What is to be done?
 * **V. I. Lenin**, [What is to be Done?](http://www.marxists.org/archive/lenin/works/1901/witbd/) (1902)
 
 <br>
 
-## Mar 10. Mass strike and social democracy
+## Mass strike and social democracy
 * **Luxemburg**, [The Mass Strike, the Political Party and the Trade Unions](http://www.marxists.org/archive/luxemburg/1906/mass-strike/index.htm) (1906)
 
 *Supplementary resources*
@@ -211,7 +211,7 @@ The reading group takes place **6PM on Thursdays at [CSE 4258](https://goo.gl/ma
 
 <br>
 
-## Mar 17. Permanent revolution
+## Permanent revolution
 * **Leon Trotsky**, [Results and Prospects](http://www.marxists.org/archive/trotsky/1931/tpr/rp-index.htm) (1906)
 
 <br>
