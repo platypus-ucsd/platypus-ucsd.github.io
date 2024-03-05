@@ -9,13 +9,9 @@ layout: default
 <br>
 
 # Coffee Breaks
-**Thursdays 5PM** @ [Starbucks, Price Center](https://maps.app.goo.gl/f2FefuX8JcqUupUS9)
+**Thursdays 5PM** @ [MOM cafe](https://maps.app.goo.gl/8bsVc7MEpYgczDhp8)
 
-Jan 18 | Israel and Palestine
-Jan 25 | Trump: Political Prisoner?
-Feb 1  | Art in History
-Feb 8  | Free Speech
-Feb 14 | Immigration and Imperialism
+Come join our informal discussions over coffee. Previous topics included: Israel and Palestine, Trump: Political Prisoner?, Art in History, Free Speech, and Immigration and Imperialism.
 
 
 <br> 
@@ -40,6 +36,19 @@ Jan 31    | [Revolutionary Leadership](/syllabus#revolutionary-leadership)
 Feb 7     | [Reform or Revolution?](/syllabus#reform-or-revolution)
 Feb 14    | [Lenin and the Vanguard Party](/syllabus#lenin-and-the-vanguard-party)
 Feb 21    | [What is to be Done?](/syllabus#what-is-to-be-done)
+Feb 28    | [Mass strike and social democracy](/syllabus#mass-strike-and-social-democracy)
+Mar 6     | [Permanent revolution](/syllabus#permanent-revolution)
+Mar 13    | [State and revolution](/syllabus#state-and-revolution)
+Apr 3     | [Imperialism](/syllabus#imperialism)
+Apr 10    | [Failure of the revolution](/syllabus#failure-of-the-revolution)
+Apr 17    | [Retreat after revolution](/syllabus#retreat-after-revolution)
+Apr 24    | [Dialectic of reification](/syllabus#dialectic-of-reification)
+May 1     | [Lessons of October](/syllabus#lessons-of-october)
+May 8     | [Trotskyism](/syllabus#trotskyism)
+May 15    | [The authoritarian state](/syllabus#the-authoritarian-state)
+May 22    | [On the concept of history](/syllabus#on-the-concept-of-history)
+May 29    | [Reflections on Marxism](/syllabus#reflections-on-marxism)
+Jun 5     | [Theory and practice](/syllabus#theory-and-practice)
 
 <br>
 ### Export Calendar
