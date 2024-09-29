@@ -5,7 +5,7 @@ title: Reading Group Syllabus
 
 # Reading Group Syllabus
 
-The reading group takes place **6PM on Thursdays at [CSE 4258](https://goo.gl/maps/tVMUddcYxDXSu8yXA)** (exit the elevator to the left on the 4th floor, and turn left right before the stairs). 
+The reading group takes place **6PM on Wednesdays at [Groundwork Books](https://groundworkbooks.org/)**. 
 
 ## Radical bourgeois philosophy IV. What is the Third Estate?
 
