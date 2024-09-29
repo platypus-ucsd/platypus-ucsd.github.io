@@ -8,10 +8,10 @@ layout: default
 
 <br>
 
-# Coffee Breaks
+<!--# Coffee Breaks
 **Thursdays 5PM** @ [MOM cafe](https://maps.app.goo.gl/8bsVc7MEpYgczDhp8)
 
-Come join our informal discussions over coffee. Previous topics included: Israel and Palestine, Trump: Political Prisoner?, Art in History, Free Speech, and Immigration and Imperialism.
+Come join our informal discussions over coffee. Previous topics included: Israel and Palestine, Trump: Political Prisoner?, Art in History, Free Speech, and Immigration and Imperialism.-->
 
 
 <br> 
