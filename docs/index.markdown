@@ -4,7 +4,7 @@ layout: default
 
 # Platypus at UC San Diego
 
-**[The Left is Dead! Long Live the Left!](https://platypus1917.org/about/the-left-is-dead-long-live-the-left/)** Come join our discussions on the history of the Left, current events and politics, and the possibilities of emanipatory politics today. Every week, we host a reading group working through the crucial texts in the history of Marxism **Thursdays, 6PM** @ [Groundwork Books](https://maps.app.goo.gl/766wTE3XfdohDAUT8).
+**[The Left is Dead! Long Live the Left!](https://platypus1917.org/about/the-left-is-dead-long-live-the-left/)** Come join our discussions on the history of the Left, current events and politics, and the possibilities of emanipatory politics today. Every week, we host a reading group working through the crucial texts in the history of Marxism **Wednesdays, 6PM** @ [Groundwork Books](https://maps.app.goo.gl/766wTE3XfdohDAUT8).
 
 <br>
 
@@ -39,16 +39,16 @@ Feb 20    | [What is to be Done?](/syllabus#what-is-to-be-done)
 Feb 27    | [Mass strike and social democracy](/syllabus#mass-strike-and-social-democracy)
 Mar 6     | [Permanent revolution](/syllabus#permanent-revolution)
 Mar 13    | [State and revolution](/syllabus#state-and-revolution)
-Apr 3     | [Imperialism](/syllabus#imperialism)
-Apr 10    | [Failure of the revolution](/syllabus#failure-of-the-revolution)
-Apr 17    | [Retreat after revolution](/syllabus#retreat-after-revolution)
-Apr 24    | [Dialectic of reification](/syllabus#dialectic-of-reification)
-May 1     | [Lessons of October](/syllabus#lessons-of-october)
-May 8     | [Trotskyism](/syllabus#trotskyism)
-May 15    | [The authoritarian state](/syllabus#the-authoritarian-state)
-May 22    | [On the concept of history](/syllabus#on-the-concept-of-history)
-May 29    | [Reflections on Marxism](/syllabus#reflections-on-marxism)
-Jun 5     | [Theory and practice](/syllabus#theory-and-practice)
+Apr 2     | [Imperialism](/syllabus#imperialism)
+Apr 9    | [Failure of the revolution](/syllabus#failure-of-the-revolution)
+Apr 16    | [Retreat after revolution](/syllabus#retreat-after-revolution)
+Apr 23    | [Dialectic of reification](/syllabus#dialectic-of-reification)
+Apr 30     | [Lessons of October](/syllabus#lessons-of-october)
+May 7     | [Trotskyism](/syllabus#trotskyism)
+May 14    | [The authoritarian state](/syllabus#the-authoritarian-state)
+May 21    | [On the concept of history](/syllabus#on-the-concept-of-history)
+May 28    | [Reflections on Marxism](/syllabus#reflections-on-marxism)
+Jun 4     | [Theory and practice](/syllabus#theory-and-practice)
 
 <br>
 ### Export Calendar
