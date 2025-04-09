@@ -17,7 +17,7 @@ Come join our informal discussions over coffee. Previous topics included: Israel
 <br> 
 
 # Primary Reading Group
-**Thursdays 6PM** @ [Groundwork Books](https://maps.app.goo.gl/766wTE3XfdohDAUT8), *[syllabus](/syllabus)*
+**Wednesdays 6PM** @ [Groundwork Books](https://maps.app.goo.gl/766wTE3XfdohDAUT8), *[syllabus](/syllabus)*
 
 Sep 25 | Radical bourgeois philosophy [IV. The Third Estate](/syllabus#radical-bourgeois-philosophy-iv-what-is-the-third-estate)
 Oct 2 | Radical bourgeois philosophy [V. Bourgeois society](/syllabus#radical-bourgeois-philosophy-v-kant-and-constant-bourgeois-society)
