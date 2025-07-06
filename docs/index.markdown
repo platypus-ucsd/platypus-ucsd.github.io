@@ -11,14 +11,16 @@ layout: default
 <!--# Coffee Breaks
 **Thursdays 5PM** @ [MOM cafe](https://maps.app.goo.gl/8bsVc7MEpYgczDhp8)
 
-Come join our informal discussions over coffee. Previous topics included: Israel and Palestine, Trump: Political Prisoner?, Art in History, Free Speech, and Immigration and Imperialism.-->  
+Come join our informal discussions over coffee. Previous topics included: Israel and Palestine, Trump: Political Prisoner?, Art in History, Free Speech, and Immigration and Imperialism.
+<br>
+-->  
 
 
-<br> 
 # Summer Reading Group
 
+
 [From the 1st to the 2nd International](https://platypus1917.org/2016/05/15/summer-2016-1st-2nd-international/)
-**Wednesdays 6PM** @ [Groundwork Books](https://maps.app.goo.gl/766wTE3XfdohDAUT8), *[syllabus](/syllabus)*
+**Wednesdays 6PM** @ [Groundwork Books](https://maps.app.goo.gl/766wTE3XfdohDAUT8)
 
 July 9 | Kropotkin, [The Conquest of Bread](https://files.libcom.org/files/Peter%20Kropotkin%20-%20The%20Conquest%20of%20Bread_0.pdf)
 July 16 | Kautsky, [The Road to Power](https://www.marxists.org/archive/kautsky/1909/power/)
