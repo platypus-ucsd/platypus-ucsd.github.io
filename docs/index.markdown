@@ -66,5 +66,6 @@ Jun 4     | [Theory and practice](/syllabus#theory-and-practice)
 ### Export Calendar
 
 <iframe src="https://calendar.google.com/calendar/embed?height=300&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&showTitle=0&showPrint=0&showCalendars=0&mode=AGENDA&src=Y190aW5vc3EzYzdlNWFmb3YzcXZicTZjaTlrY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23F6BF26" style="border-width:0" width="500" height="300" frameborder="0" scrolling="no"></iframe>
--->!
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4_KvcJddPp4?si=SMiOsGglKsNTtSPJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+-->
+<br>
+<iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/4_KvcJddPp4?si=SMiOsGglKsNTtSPJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
