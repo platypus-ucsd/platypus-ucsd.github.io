@@ -5,7 +5,7 @@ title: Reading Group Syllabus
 
 # Reading Group Syllabus
 
-The reading group takes place **6PM on Thursdays at [Groundwork Books](https://groundworkbooks.org/)**. 
+The reading group takes place **6PM on Wednesdays at [Groundwork Books](https://groundworkbooks.org/)**. 
 
 ## Radical bourgeois philosophy IV. What is the Third Estate?
 
