@@ -11,14 +11,24 @@ layout: default
 <!--# Coffee Breaks
 **Thursdays 5PM** @ [MOM cafe](https://maps.app.goo.gl/8bsVc7MEpYgczDhp8)
 
-Come join our informal discussions over coffee. Previous topics included: Israel and Palestine, Trump: Political Prisoner?, Art in History, Free Speech, and Immigration and Imperialism.-->
+Come join our informal discussions over coffee. Previous topics included: Israel and Palestine, Trump: Political Prisoner?, Art in History, Free Speech, and Immigration and Imperialism.-->  
 
 
 <br> 
+# Summer Reading Group
 
-# Primary Reading Group
+[From the 1st to the 2nd International](https://platypus1917.org/2016/05/15/summer-2016-1st-2nd-international/)
 **Wednesdays 6PM** @ [Groundwork Books](https://maps.app.goo.gl/766wTE3XfdohDAUT8), *[syllabus](/syllabus)*
 
+July 9 | Kropotkin, [The Conquest of Bread](https://files.libcom.org/files/Peter%20Kropotkin%20-%20The%20Conquest%20of%20Bread_0.pdf)
+July 16 | Kautsky, [The Road to Power](https://www.marxists.org/archive/kautsky/1909/power/)
+July 23 | TBD
+July 30 | TBD
+
+<!-- delete this to uncomment sections. E.g. during a season change from summer reading group.
+# Primary Reading Group
+**Wednesdays 6PM** @ [Groundwork Books](https://maps.app.goo.gl/766wTE3XfdohDAUT8), *[syllabus](/syllabus)*
+<!--
 Sep 25 | Radical bourgeois philosophy [IV. The Third Estate](/syllabus#radical-bourgeois-philosophy-iv-what-is-the-third-estate)
 Oct 2 | Radical bourgeois philosophy [V. Bourgeois society](/syllabus#radical-bourgeois-philosophy-v-kant-and-constant-bourgeois-society)
 Oct 9 | Radical bourgeois philosophy [VI. Freedom in history](/syllabus#radical-bourgeois-philosophy-vi-hegel-freedom-in-history)
@@ -54,3 +64,5 @@ Jun 4     | [Theory and practice](/syllabus#theory-and-practice)
 ### Export Calendar
 
 <iframe src="https://calendar.google.com/calendar/embed?height=300&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&showTitle=0&showPrint=0&showCalendars=0&mode=AGENDA&src=Y190aW5vc3EzYzdlNWFmb3YzcXZicTZjaTlrY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23F6BF26" style="border-width:0" width="500" height="300" frameborder="0" scrolling="no"></iframe>
+-->!
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4_KvcJddPp4?si=SMiOsGglKsNTtSPJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
