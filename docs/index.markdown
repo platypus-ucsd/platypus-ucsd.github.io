@@ -68,6 +68,8 @@ May 27    | [Reflections on Marxism](/syllabus#reflections-on-marxism)
 Jun 3     | [Theory and practice](/syllabus#theory-and-practice)
 
 <br>
+
+<!--
 ### Export Calendar
 
 <iframe src="https://calendar.google.com/calendar/embed?height=300&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&showTitle=0&showPrint=0&showCalendars=0&mode=AGENDA&src=Y190aW5vc3EzYzdlNWFmb3YzcXZicTZjaTlrY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23F6BF26" style="border-width:0" width="500" height="300" frameborder="0" scrolling="no"></iframe>
