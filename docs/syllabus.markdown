@@ -32,7 +32,7 @@ The reading group takes place **6PM on [Wednesdays](https://platypus-ucsd.github
 >
 > &mdash;Hegel, *Introduction to the Philosophy of History*
 
-*  G.W.F. **Hegel**, [Introduction to the Philosophy of History](http://www.marxists.org/reference/archive/hegel/works/hi/hiconten.htm) (1831) [[HTML]](http://www.marxists.org/reference/archive/hegel/works/hi/hiconten.htm) [[PDF pp. 14-128]](http://socserv.mcmaster.ca/econ/ugcm/3ll3/hegel/history.pdf) [[Audiobook]](https://youtu.be/VwN7otICQHw)
+*  G.W.F. **Hegel**, [Introduction to the Philosophy of History](http://www.marxists.org/reference/archive/hegel/works/hi/hiconten.htm) (1831) [[HTML]](http://www.marxists.org/reference/archive/hegel/works/hi/hiconten.htm) [[PDF pp. 14-128]](https://historyofeconomicthought.mcmaster.ca/hegel/history.pdf) [[Audiobook]](https://youtu.be/VwN7otICQHw)
 
 
 <br>
