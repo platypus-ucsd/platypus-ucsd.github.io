@@ -194,6 +194,8 @@ The reading group takes place **6PM on [Wednesdays](https://platypus-ucsd.github
 ## Lenin and the vanguard party
 * **Spartacist League**, [Lenin and the Vanguard Party](http://www.bolshevik.org/Pamphlets/LeninVanguard/LVP%200.htm) (1978)
 
+*Supplementary resources*
++ Appignanesi & Zarate, [Introducing Lenin and the Russian Revolution](https://dn710200.ca.archive.org/0/items/leninforbeginner/leninforbeginners.pdf), comic (1977)
 
 <br>
 
