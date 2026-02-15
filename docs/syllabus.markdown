@@ -202,6 +202,8 @@ The reading group takes place **6PM on [Wednesdays](https://platypus-ucsd.github
 ## What is to be done?
 * **V. I. Lenin**, [What is to be Done?](http://www.marxists.org/archive/lenin/works/1901/witbd/) (1902)
 
+*Supplementary resources*
++ Appignanesi & Zarate, [Introducing Lenin and the Russian Revolution](https://dn710200.ca.archive.org/0/items/leninforbeginner/leninforbeginners.pdf), comic (1977)
 <br>
 
 ## Mass strike and social democracy
