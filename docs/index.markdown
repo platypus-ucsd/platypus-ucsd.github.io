@@ -77,7 +77,7 @@ Jun 2     | [Theory and practice](/syllabus#theory-and-practice)
 <br>
 
 # Panel Discussions
-<iframe width="504" height="284" src="https://www.youtube.com/watch?v=4K2JiHI5cbM&t=1829s"
+<iframe width="504" height="284" src="https://www.youtube-nocookie.com/embed/4K2JiHI5cbM"
     title="YouTube video player" frameborder="0" allowfullscreen
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     referrerpolicy="strict-origin-when-cross-origin"></iframe>
