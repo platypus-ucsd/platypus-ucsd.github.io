@@ -27,45 +27,45 @@ August 6 | Nicolaus, [The Unknown Marx](https://platypus1917.org/wp-content/uplo
 August 13 | Mitchell, [Women: The Longest Revolution](https://platypus1917.org/wp-content/uploads/readings/mitchelljuliet_womenlongestrevolution_nlr40.pdf)
 August 20 | Reed, [Black Particularity Reconsidered](http://libcom.org/library/black-particularity-reconsidered-adolph-l-reed-jr)
 August 27 | Krakauer, [The Mass Ornament](https://platypus1917.org/wp-content/uploads/Kracauer_Siegfried_The-Mass-Ornament.pdf)
-September 3 | Rousseau, [Discourse on the Origins of Inequality](https://constitution.org/2-Authors/jjr/ineq.htm)
-September 10 | Smith [The Wealth of Nations vol. I](https://www.marxists.org/reference/archive/smith-adam/works/wealth-of-nations/index.htm)
-September 17 | Smith [The Wealth of Nations vol. II](https://www.marxists.org/reference/archive/smith-adam/works/wealth-of-nations/index.htm)
 
 <!-- Comments work like this. Use them to save syllabus periods. -->
 
 # Primary Reading Group
 **Wednesdays 6PM** @ [Groundwork Books](https://maps.app.goo.gl/766wTE3XfdohDAUT8), *[syllabus](/syllabus)*
 
-Sep 24 | Radical bourgeois philosophy [IV. The Third Estate](/syllabus#radical-bourgeois-philosophy-iv-what-is-the-third-estate)
-Oct 1 | Radical bourgeois philosophy [V. Bourgeois society](/syllabus#radical-bourgeois-philosophy-v-kant-and-constant-bourgeois-society)
-Oct 8 | Radical bourgeois philosophy [VI. Freedom in history](/syllabus#radical-bourgeois-philosophy-vi-hegel-freedom-in-history)
-Oct 15 | What is the Left? [I. Captial in history](/syllabus#what-is-the-left-i-capital-in-history)
-Oct 22 | What is the Left? [II. Utopia and critique](/syllabus#what-is-the-left-ii-utopia-and-critique) 
-Oct 39  | What is Marxism? [I. Socialism](/syllabus#what-is-marxism-i-socialism)
-Nov 5 | What is Marxism? [II. Revolution in 1848](/syllabus#what-is-marxism-ii-revolution-in-1848)
-Nov 12 | What is Marxism? [III. Bonapartism](/syllabus#what-is-marxism-iii-bonapartism)
-Nov 19  | What is Marxism? [IV. Critique of political economy](/syllabus#what-is-marxism-iv-critique-of-political-economy)
+September 2 | Rousseau, [Discourse on the Origins of Inequality](https://constitution.org/2-Authors/jjr/ineq.htm)
+September 9 | Smith [The Wealth of Nations vol. I](https://www.marxists.org/reference/archive/smith-adam/works/wealth-of-nations/index.htm)
+September 16 | Smith [The Wealth of Nations vol. II](https://www.marxists.org/reference/archive/smith-adam/works/wealth-of-nations/index.htm)
+Sep 23 | Radical bourgeois philosophy [IV. The Third Estate](/syllabus#radical-bourgeois-philosophy-iv-what-is-the-third-estate)
+Sep 30 | Radical bourgeois philosophy [V. Bourgeois society](/syllabus#radical-bourgeois-philosophy-v-kant-and-constant-bourgeois-society)
+Oct 7 | Radical bourgeois philosophy [VI. Freedom in history](/syllabus#radical-bourgeois-philosophy-vi-hegel-freedom-in-history)
+Oct 14 | What is the Left? [I. Captial in history](/syllabus#what-is-the-left-i-capital-in-history)
+Oct 21 | What is the Left? [II. Utopia and critique](/syllabus#what-is-the-left-ii-utopia-and-critique) 
+Oct 28  | What is Marxism? [I. Socialism](/syllabus#what-is-marxism-i-socialism)
+Nov 4 | What is Marxism? [II. Revolution in 1848](/syllabus#what-is-marxism-ii-revolution-in-1848)
+Nov 11 | What is Marxism? [III. Bonapartism](/syllabus#what-is-marxism-iii-bonapartism)
+Nov 18  | What is Marxism? [IV. Critique of political economy](/syllabus#what-is-marxism-iv-critique-of-political-economy)
 Break  | [Supplementary readings](/syllabus#winter-break-readings)
-Jan 7    | What is Marxism? [V. Reification](/syllabus#what-is-marxism-v-reification)
-Jan 14   | What is Marxism? [VI. Class consciousness](/syllabus#what-is-marxism-vi-class-consciousness)
-Jan 21    | What is Marxism? [VII. Ends of philosophy](/syllabus#what-is-marxism-vii-ends-of-philosophy)
-Jan 28    | [Revolutionary Leadership](/syllabus#revolutionary-leadership)
-Feb 4     | [Reform or Revolution?](/syllabus#reform-or-revolution)
-Feb 11    | [Lenin and the Vanguard Party](/syllabus#lenin-and-the-vanguard-party)
-Feb 18    | [What is to be Done?](/syllabus#what-is-to-be-done)
-Feb 25    | [Mass strike and social democracy](/syllabus#mass-strike-and-social-democracy)
-Mar 4     | [Permanent revolution](/syllabus#permanent-revolution)
-Mar 11    | [State and revolution](/syllabus#state-and-revolution)
-Apr 1     | [Imperialism](/syllabus#imperialism)
-Apr 8    | [Failure of the revolution](/syllabus#failure-of-the-revolution)
-Apr 15    | [Retreat after revolution](/syllabus#retreat-after-revolution)
-Apr 22    | [Dialectic of reification](/syllabus#dialectic-of-reification)
-Apr 29     | [Lessons of October](/syllabus#lessons-of-october)
-May 6     | [Trotskyism](/syllabus#trotskyism)
-May 13    | [The authoritarian state](/syllabus#the-authoritarian-state)
-May 20    | [On the concept of history](/syllabus#on-the-concept-of-history)
-May 27    | [Reflections on Marxism](/syllabus#reflections-on-marxism)
-Jun 3     | [Theory and practice](/syllabus#theory-and-practice)
+Jan 6    | What is Marxism? [V. Reification](/syllabus#what-is-marxism-v-reification)
+Jan 13   | What is Marxism? [VI. Class consciousness](/syllabus#what-is-marxism-vi-class-consciousness)
+Jan 20    | What is Marxism? [VII. Ends of philosophy](/syllabus#what-is-marxism-vii-ends-of-philosophy)
+Jan 27    | [Revolutionary Leadership](/syllabus#revolutionary-leadership)
+Feb 3     | [Reform or Revolution?](/syllabus#reform-or-revolution)
+Feb 10    | [Lenin and the Vanguard Party](/syllabus#lenin-and-the-vanguard-party)
+Feb 17    | [What is to be Done?](/syllabus#what-is-to-be-done)
+Feb 24    | [Mass strike and social democracy](/syllabus#mass-strike-and-social-democracy)
+Mar 3     | [Permanent revolution](/syllabus#permanent-revolution)
+Mar 10    | [State and revolution](/syllabus#state-and-revolution)
+Mar 31     | [Imperialism](/syllabus#imperialism)
+Apr 7    | [Failure of the revolution](/syllabus#failure-of-the-revolution)
+Apr 14    | [Retreat after revolution](/syllabus#retreat-after-revolution)
+Apr 21    | [Dialectic of reification](/syllabus#dialectic-of-reification)
+Apr 28     | [Lessons of October](/syllabus#lessons-of-october)
+May 5     | [Trotskyism](/syllabus#trotskyism)
+May 12    | [The authoritarian state](/syllabus#the-authoritarian-state)
+May 19    | [On the concept of history](/syllabus#on-the-concept-of-history)
+May 26    | [Reflections on Marxism](/syllabus#reflections-on-marxism)
+Jun 2     | [Theory and practice](/syllabus#theory-and-practice)
 
 <br>
 
@@ -77,10 +77,14 @@ Jun 3     | [Theory and practice](/syllabus#theory-and-practice)
 <br>
 
 # Panel Discussions
+<iframe width="504" height="284" src="https://www.youtube.com/watch?v=4K2JiHI5cbM&t=1829s"
+    title="YouTube video player" frameborder="0" allowfullscreen
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
 <iframe width="504" height="284" src="https://www.youtube-nocookie.com/embed/0Hbcej65hbc"
     title="YouTube video player" frameborder="0" allowfullscreen
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerpolicy="strict-origin-when-cross-origin">
-</iframe>
+    referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
 <iframe width="504" height="284" src="https://www.youtube-nocookie.com/embed/4_KvcJddPp4?si=SMiOsGglKsNTtSPJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
