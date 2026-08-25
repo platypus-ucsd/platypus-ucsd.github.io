@@ -27,15 +27,18 @@ August 6 | Nicolaus, [The Unknown Marx](https://platypus1917.org/wp-content/uplo
 August 13 | Mitchell, [Women: The Longest Revolution](https://platypus1917.org/wp-content/uploads/readings/mitchelljuliet_womenlongestrevolution_nlr40.pdf)
 August 20 | Reed, [Black Particularity Reconsidered](http://libcom.org/library/black-particularity-reconsidered-adolph-l-reed-jr)
 August 27 | Krakauer, [The Mass Ornament](https://platypus1917.org/wp-content/uploads/Kracauer_Siegfried_The-Mass-Ornament.pdf)
+September 2 | Rousseau, [Discourse on the Origins of Inequality](https://constitution.org/2-Authors/jjr/ineq.htm)
+September 9 | Smith [The Wealth of Nations vol. I](https://www.marxists.org/reference/archive/smith-adam/works/wealth-of-nations/index.htm)
+September 16 | Smith [The Wealth of Nations vol. II](https://www.marxists.org/reference/archive/smith-adam/works/wealth-of-nations/index.htm)
 
 <!-- Comments work like this. Use them to save syllabus periods. -->
 
 # Primary Reading Group
 **Wednesdays 6PM** @ [Groundwork Books](https://maps.app.goo.gl/766wTE3XfdohDAUT8), *[syllabus](/syllabus)*
 
-September 2 | Rousseau, [Discourse on the Origins of Inequality](https://constitution.org/2-Authors/jjr/ineq.htm)
-September 9 | Smith [The Wealth of Nations vol. I](https://www.marxists.org/reference/archive/smith-adam/works/wealth-of-nations/index.htm)
-September 16 | Smith [The Wealth of Nations vol. II](https://www.marxists.org/reference/archive/smith-adam/works/wealth-of-nations/index.htm)
+September 2 | Krakauer, [The Mass Ornament](https://platypus1917.org/wp-content/uploads/Kracauer_Siegfried_The-Mass-Ornament.pdf)
+September 9 | Reed, [Black Particularity Reconsidered](http://libcom.org/library/black-particularity-reconsidered-adolph-l-reed-jr)
+September 16 | Smith [The Wealth of Nations vol. I](https://www.marxists.org/reference/archive/smith-adam/works/wealth-of-nations/index.htm)
 Sep 23 | Radical bourgeois philosophy [IV. The Third Estate](/syllabus#radical-bourgeois-philosophy-iv-what-is-the-third-estate)
 Sep 30 | Radical bourgeois philosophy [V. Bourgeois society](/syllabus#radical-bourgeois-philosophy-v-kant-and-constant-bourgeois-society)
 Oct 7 | Radical bourgeois philosophy [VI. Freedom in history](/syllabus#radical-bourgeois-philosophy-vi-hegel-freedom-in-history)
