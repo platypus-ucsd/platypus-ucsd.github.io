@@ -37,8 +37,8 @@ September 16 | Smith [The Wealth of Nations vol. II](https://www.marxists.org/re
 **Wednesdays 6PM** @ [Groundwork Books](https://maps.app.goo.gl/766wTE3XfdohDAUT8), *[syllabus](/syllabus)*
 
 Sep 2 | Mitchell, [Women: The Longest Revolution](https://platypus1917.org/wp-content/uploads/readings/mitchelljuliet_womenlongestrevolution_nlr40.pdf)
-September 9 | Krakauer, [The Mass Ornament](https://platypus1917.org/wp-content/uploads/Kracauer_Siegfried_The-Mass-Ornament.pdf)
-September 16 | Smith [The Wealth of Nations vol. I](https://www.marxists.org/reference/archive/smith-adam/works/wealth-of-nations/index.htm)
+Sep 9 | Krakauer, [The Mass Ornament](https://platypus1917.org/wp-content/uploads/Kracauer_Siegfried_The-Mass-Ornament.pdf)
+Sep 16 | Smith [The Wealth of Nations vol. I](https://www.marxists.org/reference/archive/smith-adam/works/wealth-of-nations/index.htm)
 Sep 23 | Radical bourgeois philosophy [IV. The Third Estate](/syllabus#radical-bourgeois-philosophy-iv-what-is-the-third-estate)
 Sep 30 | Radical bourgeois philosophy [V. Bourgeois society](/syllabus#radical-bourgeois-philosophy-v-kant-and-constant-bourgeois-society)
 Oct 7 | Radical bourgeois philosophy [VI. Freedom in history](/syllabus#radical-bourgeois-philosophy-vi-hegel-freedom-in-history)
