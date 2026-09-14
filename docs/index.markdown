@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Platypus at UC San Diego
+# Platypus at San Diego
 
 **[The Left is Dead! Long Live the Left!](https://platypus1917.org/about/the-left-is-dead-long-live-the-left/)** Come join our discussions on the history of the Left, current events and politics, and the possibilities of emanipatory politics today. Every week, we host a reading group working through the crucial texts in the history of Marxism **Wednesdays, 6PM** @ [Groundwork Books](https://maps.app.goo.gl/766wTE3XfdohDAUT8).
 
